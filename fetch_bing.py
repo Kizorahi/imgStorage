@@ -2,7 +2,7 @@ import os
 import datetime
 import requests
 
-BING_API = "https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=ROW"
+BING_API = "https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=de-DE"
 BASE_URL = "https://www.bing.com"
 
 def fetch_bing_wallpaper():
