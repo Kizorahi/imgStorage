@@ -7,7 +7,7 @@ BASE_URL = "https://www.bing.com"
 
 def fetch_bing_wallpaper():
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0"
     }
 
     res = requests.get(BING_API, headers=headers, timeout=15)
