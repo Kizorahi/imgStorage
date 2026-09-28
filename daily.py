@@ -2,44 +2,51 @@ import os
 import datetime
 import requests
 
-# Официальный API Bing
 BING_API = "https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US"
 BASE_URL = "https://www.bing.com"
 
 def fetch_bing_wallpaper():
-    # 1. Получаем данные от Bing
-    response = requests.get(BING_API)
-    response.raise_for_status()
-    data = response.json()
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    }
+    
+    # 1. Запрос к API Bing
+    res = requests.get(BING_API, headers=headers, timeout=15)
+    res.raise_for_status()
+    data = res.json()
     
     image_data = data["images"][0]
     img_url = BASE_URL + image_data["url"]
     title = image_data.get("title", "Bing Wallpaper")
     copyright_text = image_data.get("copyright", "")
     
-    # Имя файла на основе даты (например, 2026-09-28.jpg)
     today = datetime.date.today().isoformat()
     filename = f"{today}.jpg"
     
-    # 2. Создаем папку images, если её нет
-    os.makedirs("images", exist_ok=True)
-    filepath = os.path.join("images", filename)
+    # 2. Создаем директорию images
+    images_dir = os.path.join(os.getcwd(), "images")
+    os.makedirs(images_dir, exist_ok=True)
     
-    # 3. Скачиваем саму картинку
-    img_response = requests.get(img_url)
-    img_response.raise_for_status()
+    filepath = os.path.join(images_dir, filename)
+    rel_path = f"images/{filename}"
+    
+    # 3. Скачиваем изображение
+    img_res = requests.get(img_url, headers=headers, timeout=30)
+    img_res.raise_for_status()
+    
     with open(filepath, "wb") as f:
-        f.write(img_response.content)
+        f.write(img_res.content)
         
-    print(f"Загружено изображение: {filepath}")
+    print(f"Изображение успешно сохранено: {filepath}")
     
     # 4. Обновляем README.md
-    update_readme(filepath, title, copyright_text, today)
+    update_readme(rel_path, title, copyright_text, today)
 
-def update_readme(img_path, title, copyright_text, date):
+def update_readme(rel_path, title, copyright_text, date):
+    readme_path = os.path.join(os.getcwd(), "README.md")
     readme_content = f"""# Bing Daily Wallpaper
 
-![{title}]({img_path})
+![{title}]({rel_path})
 
 ### {title}
 **Дата:** {date}  
@@ -48,7 +55,7 @@ def update_readme(img_path, title, copyright_text, date):
 ---
 *Автоматически обновлено с помощью GitHub Actions.*
 """
-    with open("README.md", "w", encoding="utf-8") as f:
+    with open(readme_path, "w", encoding="utf-8") as f:
         f.write(readme_content)
 
 if __name__ == "__main__":
