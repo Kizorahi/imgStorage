@@ -28,16 +28,23 @@ def fetch_bing_wallpaper():
     os.makedirs(images_dir, exist_ok=True)
     
     filepath = os.path.join(images_dir, filename)
+    latest_filepath = os.path.join(images_dir, "latest.jpg")
     rel_path = f"images/{filename}"
     
     # 3. Скачиваем изображение
     img_res = requests.get(img_url, headers=headers, timeout=30)
     img_res.raise_for_status()
     
+    # Сохраняем файл с датой (история)
     with open(filepath, "wb") as f:
         f.write(img_res.content)
         
+    # Сохраняем постоянный файл latest.jpg (динамическое автообновление)
+    with open(latest_filepath, "wb") as f:
+        f.write(img_res.content)
+        
     print(f"Изображение успешно сохранено: {filepath}")
+    print(f"Постоянная копия обновлена: {latest_filepath}")
     
     # 4. Обновляем README.md
     update_readme(rel_path, title, copyright_text, today)
