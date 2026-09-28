@@ -1,7 +1,7 @@
 # Bing Daily Wallpaper
 
-![History with a view](images/latest.jpg)
+![Geschichte mit Aussicht](images/latest.jpg)
 
-### History with a view
+### Geschichte mit Aussicht
 **Дата:** 2026-09-28  
-**Описание:** Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)
+**Описание:** Sattais-Katcheri-Halle im Fort Amber bei Jaipur, Rajasthan, Indien (© R.M. Nunes/Getty Images)
