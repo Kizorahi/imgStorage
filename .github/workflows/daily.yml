@@ -1,4 +1,4 @@
-name: Fetch Bing Wallpaper Daily
+name: Ki Bing Daily
 
 on:
   schedule:
