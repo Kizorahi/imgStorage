@@ -1,4 +1,5 @@
 import os
+import datetime
 import requests
 
 BING_API = "https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US"
@@ -17,6 +18,8 @@ def fetch_bing_wallpaper():
     img_url = BASE_URL + image_data["url"]
     title = image_data.get("title", "Bing Wallpaper")
     copyright_text = image_data.get("copyright", "")
+    
+    today = datetime.date.today().isoformat()
 
     images_dir = os.path.join(os.getcwd(), "images")
     os.makedirs(images_dir, exist_ok=True)
@@ -32,15 +35,16 @@ def fetch_bing_wallpaper():
         
     print(f"Постоянная картинка успешно обновлена: {latest_filepath}")
 
-    update_readme(rel_path, title, copyright_text)
+    update_readme(rel_path, title, copyright_text, today)
 
-def update_readme(rel_path, title, copyright_text):
+def update_readme(rel_path, title, copyright_text, date):
     readme_path = os.path.join(os.getcwd(), "README.md")
     readme_content = f"""# Bing Daily Wallpaper
 
 ![{title}]({rel_path})
 
 ### {title}
+**Дата:** {date}  
 **Описание:** {copyright_text}
 """
     with open(readme_path, "w", encoding="utf-8") as f:
