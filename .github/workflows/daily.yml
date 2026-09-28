@@ -2,22 +2,21 @@ name: Fetch Bing Wallpaper Daily
 
 on:
   schedule:
-    # Запуск каждый день в 02:00 UTC (можно настроить любое время)
     - cron: '0 2 * * *'
-  workflow_dispatch: # Позволяет запускать вручную из вкладки Actions
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Разрешаем бота делать коммиты в репозиторий
+      contents: write # Даем боту право делать git commit и git push
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4.2.2
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v5.4.0
         with:
           python-version: '3.x'
 
