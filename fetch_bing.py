@@ -2,7 +2,6 @@ import os
 import datetime
 import requests
 
-# Считываем секрет из системы (не пишите тут UNDAILY напрямую!)
 UNSPLASH_KEY = os.environ.get("UNSPLASH_ACCESS_KEY")
 API_URL = f"https://api.unsplash.com/photos/random?topics=wallpapers&orientation=landscape&client_id={UNSPLASH_KEY}"
 
@@ -12,15 +11,18 @@ def fetch_unsplash_wallpaper():
     }
 
     # 1. Запрос к Unsplash
-    data = requests.get(API_URL, headers=headers, timeout=15).json()
+    res = requests.get(API_URL, headers=headers, timeout=15)
+    res.raise_for_status()  # Если статус ответа не 200 (например, 401 Unauthorized), вызовет ошибку HTTP
+    data = res.json()
     
+    # 2. Извлечение данных
     img_url = data["urls"]["full"]
     title = data.get("alt_description") or "Unsplash Wallpaper"
     author_name = data["user"]["name"]
     author_link = data["user"]["links"]["html"]
     today = datetime.date.today().isoformat()
 
-    # 2. Скачивание и сохранение двух файлов
+    # 3. Сохранение изображений
     images_dir = os.path.join(os.getcwd(), "images")
     os.makedirs(images_dir, exist_ok=True)
 
@@ -32,7 +34,7 @@ def fetch_unsplash_wallpaper():
     with open(os.path.join(images_dir, "unsplash.jpg"), "wb") as f:
         f.write(img_bytes)
 
-    # 3. Обновление README
+    # 4. Обновление README
     readme_content = f"""# Daily Unsplash Wallpaper
 
 ![{title}](images/latest.jpg)
