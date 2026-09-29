@@ -9,6 +9,8 @@
 ---
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** A woman with a blonde braid in a floral top overlooking a river
+* **Описание:** An open book with printed text resting on a light wooden surface
 * **Дата:** 2026-09-29
-* **Автор:** [Alina Chernovolova](https://unsplash.com/@alinachernovol)
+* **Автор:** [B S](https://unsplash.com/@barbarashaw)
+
+---
