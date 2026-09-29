@@ -9,9 +9,9 @@
 ---
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** Abstract purple and yellow swirls on spheres
+* **Описание:** A small bird perched on a branch in a forest
 * **Дата:** 29 September 2026
-* **Автор:** [Logan Voss](https://unsplash.com/@loganvoss)
+* **Автор:** [Adi Albulescu](https://unsplash.com/@adialbulescu)
 
 ---
 ## 3. Wallhaven (`wallhaven.jpg`)
