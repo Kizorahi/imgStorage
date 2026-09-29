@@ -9,13 +9,13 @@
 ---
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** A small bird perched on a branch in a forest
+* **Описание:** Rugged mountain peaks illuminated by warm golden light with wisps of clouds
 * **Дата:** 29 September 2026
-* **Автор:** [Adi Albulescu](https://unsplash.com/@adialbulescu)
+* **Автор:** [Marek Piwnicki](https://unsplash.com/@marekpiwnicki)
 
 ---
 ## 3. Wallhaven (`wallhaven.jpg`)
 ![Wallhaven](images/wallhaven.jpg)
-* **Заголовок:** [Wallhaven Wallpaper #gwdyl7](https://wallhaven.cc/w/gwdyl7)
-* **Разрешение:** 3840x2160
+* **Заголовок:** [Wallhaven Wallpaper #zpv98o](https://wallhaven.cc/w/zpv98o)
+* **Разрешение:** 3440x1440
 * **Дата:** 29 September 2026
