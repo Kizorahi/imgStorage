@@ -9,8 +9,8 @@
 ---
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** Small green plants with yellow flowers growing in rippled sand dunes
+* **Описание:** A red and orange object floating in the air
 * **Дата:** 2026-09-29
-* **Автор:** [Kellen Riggin](https://unsplash.com/@kalaniparker)
+* **Автор:** [Philip Oroni](https://unsplash.com/@philipsfuture)
 
 ---
