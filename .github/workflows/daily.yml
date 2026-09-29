@@ -28,7 +28,7 @@ jobs:
       - name: Fetch wallpaper
         env:
           UNSPLASH_ACCESS_KEY: ${{ secrets.UNDAILY }}
-        run: python fetch_bing.py
+        run: imgStorageUpdate.py
 
       - name: Commit and push changes
         run: |
