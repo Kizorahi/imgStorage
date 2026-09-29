@@ -9,9 +9,9 @@
 ---
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** Rugged mountain peaks illuminated by warm golden light with wisps of clouds
+* **Описание:** The san francisco skyline at golden hour across the dark water of the bay
 * **Дата:** 29 September 2026
-* **Автор:** [Marek Piwnicki](https://unsplash.com/@marekpiwnicki)
+* **Автор:** [Kellen Riggin](https://unsplash.com/@kalaniparker)
 
 ---
 ## 3. Wallhaven (`wallhaven.jpg`)
