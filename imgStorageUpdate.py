@@ -8,17 +8,14 @@ UNSPLASH_API = f"https://api.unsplash.com/photos/random?topics=wallpapers&orient
 BING_API = "https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=de-DE"
 WALLHAVEN_API = "https://wallhaven.cc/api/v1/search?categories=100&purity=100&sorting=date_added&order=desc"
 
-HEADERS = { 
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" 
-}
+HEADERS = { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" }
 
 def fetch_all_wallpapers():
-    # Формат даты: 29 September 2026
     today = datetime.date.today().strftime("%d %B %Y")
     images_dir = os.path.join(os.getcwd(), "images")
     os.makedirs(images_dir, exist_ok=True)
 
-    # 1. Bing
+    # Bing
     bing_data = {}
     try:
         res = requests.get(BING_API, headers=HEADERS, timeout=15)
@@ -39,7 +36,7 @@ def fetch_all_wallpapers():
     except Exception as e:
         print(f"Error Bing: {e}")
 
-    # 2. Unsplash
+    # Unsplash
     unsplash_data = {}
     if UNSPLASH_KEY:
         try:
@@ -59,14 +56,13 @@ def fetch_all_wallpapers():
         except Exception as e:
             print(f"Error Unsplash: {e}")
 
-    # 3. Wallhaven (Самые свежие обои)
+    # Wallhaven
     wallhaven_data = {}
     try:
         res = requests.get(WALLHAVEN_API, headers=HEADERS, timeout=15)
         res.raise_for_status()
         items = res.json().get("data", [])
         if items:
-            # Берём самую свежую картинку из списка
             latest_bg = items[0]
             img_url = latest_bg["path"]
             img_bytes = requests.get(img_url, headers=HEADERS, timeout=30).content
@@ -83,7 +79,6 @@ def fetch_all_wallpapers():
     except Exception as e:
         print(f"Error Wallhaven: {e}")
 
-    # Генерация README.md
     readme_content = f"# Daily Wallpaper Storage\n\n"
 
     if bing_data:
