@@ -9,6 +9,13 @@
 ---
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** A woman in a beige tulle dress and gold headpiece among autumn foliage
+* **Описание:** The chicago skyline in silhouette against a warm orange sky over lake michigan
 * **Дата:** 2026-09-29
-* **Автор:** [James Forbes](https://unsplash.com/@vespir)
+* **Автор:** [Matthew Jackson](https://unsplash.com/@levijackson)
+
+---
+## 3. Wallhaven (`wallhaven.jpg`)
+![Wallhaven](images/wallhaven.jpg)
+* **Заголовок:** [Wallhaven Wallpaper #gwdyl7](https://wallhaven.cc/w/gwdyl7)
+* **Разрешение:** 3840x2160
+* **Дата:** 2026-09-29
