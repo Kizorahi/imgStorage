@@ -9,13 +9,15 @@
 ---
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** The san francisco skyline at golden hour across the dark water of the bay
+* **Описание:** A person in a yellow jacket walking through a dense pine forest
 * **Дата:** 29 September 2026
-* **Автор:** [Kellen Riggin](https://unsplash.com/@kalaniparker)
+* **Автор:** [Filip Kvasnak](https://unsplash.com/@filipkvasnak)
 
 ---
 ## 3. Wallhaven (`wallhaven.jpg`)
 ![Wallhaven](images/wallhaven.jpg)
-* **Заголовок:** [Wallhaven Wallpaper #zpv98o](https://wallhaven.cc/w/zpv98o)
-* **Разрешение:** 3440x1440
+* **Заголовок:** [Wallhaven Wallpaper #1qo22v](https://wallhaven.cc/w/1qo22v)
+* **Разрешение:** 2560x1440
 * **Дата:** 29 September 2026
+
+---
