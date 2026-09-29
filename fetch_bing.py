@@ -12,7 +12,7 @@ HEADERS = {
 }
 
 def fetch_all_wallpapers():
-    today = datetime.date.today().isoformat()
+    today = datetime.date.today().strftime("%d %B %Y")
     images_dir = os.path.join(os.getcwd(), "images")
     os.makedirs(images_dir, exist_ok=True)
 
