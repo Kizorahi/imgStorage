@@ -9,8 +9,6 @@
 ---
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** An open book with printed text resting on a light wooden surface
+* **Описание:** A woman in a beige tulle dress and gold headpiece among autumn foliage
 * **Дата:** 2026-09-29
-* **Автор:** [B S](https://unsplash.com/@barbarashaw)
-
----
+* **Автор:** [James Forbes](https://unsplash.com/@vespir)
