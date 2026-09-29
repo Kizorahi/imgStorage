@@ -1,7 +1,7 @@
-# Bing Daily Wallpaper
+# Daily Unsplash Wallpaper
 
-![Aus Gletschern entstanden](images/latest.jpg)
+![A person walking up white concrete stairs beside a glass building in Berlin](images/latest.jpg)
 
-### Aus Gletschern entstanden
+### A person walking up white concrete stairs beside a glass building in berlin
 **Дата:** 2026-09-29  
-**Описание:** Das blaue, von Gletschern gespeiste Wasser des Kasilof River in Alaska, USA (© jared lloyd/Getty Images)
+**Автор:** [Yuri Krupenin](https://unsplash.com/@cubeofwood)
