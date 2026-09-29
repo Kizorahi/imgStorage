@@ -2,53 +2,43 @@ import os
 import datetime
 import requests
 
-BING_API = "https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=de-DE"
-BASE_URL = "https://www.bing.com"
+UNSPLASH_KEY = os.environ.get("unDaily")
+API_URL = f"https://api.unsplash.com/photos/random?topics=wallpapers&orientation=landscape&client_id={unDaily}"
 
-def fetch_bing_wallpaper():
+def fetch_unsplash_wallpaper():
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     }
-
-    res = requests.get(BING_API, headers=headers, timeout=15)
-    res.raise_for_status()
-    data = res.json()
     
-    image_data = data["images"][0]
-    img_url = BASE_URL + image_data["url"]
-    title = image_data.get("title", "Bing Wallpaper")
-    copyright_text = image_data.get("copyright", "")
+    data = requests.get(API_URL, headers=headers, timeout=15).json()
     
+    img_url = data["urls"]["full"]
+    title = data.get("alt_description") or "Unsplash Wallpaper"
+    author_name = data["user"]["name"]
+    author_link = data["user"]["links"]["html"]
     today = datetime.date.today().isoformat()
 
     images_dir = os.path.join(os.getcwd(), "images")
     os.makedirs(images_dir, exist_ok=True)
-    
-    latest_filepath = os.path.join(images_dir, "latest.jpg")
-    rel_path = "images/latest.jpg"
 
-    img_res = requests.get(img_url, headers=headers, timeout=30)
-    img_res.raise_for_status()
-    
-    with open(latest_filepath, "wb") as f:
-        f.write(img_res.content)
-        
-    print(f"Постоянная картинка успешно обновлена: {latest_filepath}")
+    img_bytes = requests.get(img_url, headers=headers, timeout=30).content
 
-    update_readme(rel_path, title, copyright_text, today)
+    with open(os.path.join(images_dir, "latest.jpg"), "wb") as f:
+        f.write(img_bytes)
 
-def update_readme(rel_path, title, copyright_text, date):
-    readme_path = os.path.join(os.getcwd(), "README.md")
-    readme_content = f"""# Bing Daily Wallpaper
+    with open(os.path.join(images_dir, "unsplash.jpg"), "wb") as f:
+        f.write(img_bytes)
 
-![{title}]({rel_path})
+    readme_content = f"""# Daily Unsplash Wallpaper
 
-### {title}
-**Дата:** {date}  
-**Описание:** {copyright_text}
+![{title}](images/latest.jpg)
+
+### {title.capitalize()}
+**Дата:** {today}  
+**Автор:** [{author_name}]({author_link})
 """
-    with open(readme_path, "w", encoding="utf-8") as f:
+    with open(os.path.join(os.getcwd(), "README.md"), "w", encoding="utf-8") as f:
         f.write(readme_content)
 
 if __name__ == "__main__":
-    fetch_bing_wallpaper()
+    fetch_unsplash_wallpaper()
