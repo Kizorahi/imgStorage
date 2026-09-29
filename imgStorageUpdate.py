@@ -7,8 +7,11 @@ UNSPLASH_KEY = os.environ.get("UNSPLASH_ACCESS_KEY")
 UNSPLASH_API = f"https://api.unsplash.com/photos/random?topics=wallpapers&orientation=landscape&client_id={UNSPLASH_KEY}"
 BING_API = "https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=de-DE"
 WALLHAVEN_API = "https://wallhaven.cc/api/v1/search?categories=100&purity=100&sorting=date_added&order=desc"
+PEAPIX_API = "https://peapix.com/spotlight/feed?country=us"
 
-HEADERS = { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" }
+HEADERS = { 
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" 
+}
 
 def fetch_all_wallpapers():
     today = datetime.date.today().strftime("%d %B %Y")
@@ -79,6 +82,28 @@ def fetch_all_wallpapers():
     except Exception as e:
         print(f"Error Wallhaven: {e}")
 
+    # Peapix Windows Spotlight
+    peapix_data = {}
+    try:
+        res = requests.get(PEAPIX_API, headers=HEADERS, timeout=15)
+        res.raise_for_status()
+        items = res.json()
+        if items:
+            today_item = items[0]
+            img_url = today_item.get("imageUrl") or today_item.get("fullUrl")
+            img_bytes = requests.get(img_url, headers=HEADERS, timeout=30).content
+            
+            with open(os.path.join(images_dir, "peapix.jpg"), "wb") as f:
+                f.write(img_bytes)
+                
+            peapix_data = {
+                "title": today_item.get("title", "Windows Spotlight Wallpaper"),
+                "copyright": today_item.get("copyright", "Microsoft Spotlight")
+            }
+            print("Peapix added!")
+    except Exception as e:
+        print(f"Error Peapix: {e}")
+        
     readme_content = f"# Daily Wallpaper Storage\n\n"
 
     if bing_data:
@@ -106,6 +131,16 @@ def fetch_all_wallpapers():
 ![Wallhaven](images/wallhaven.jpg)
 * **Заголовок:** [{wallhaven_data['title']}]({wallhaven_data['url']})
 * **Разрешение:** {wallhaven_data['resolution']}
+* **Дата:** {today}
+
+---
+"""
+
+    if peapix_data:
+        readme_content += f"""## 4. Windows Spotlight via Peapix (`peapix.jpg`)
+![Peapix](images/peapix.jpg)
+* **Заголовок:** {peapix_data['title']}
+* **Описание:** {peapix_data['copyright']}
 * **Дата:** {today}
 """
 
