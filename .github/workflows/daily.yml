@@ -1,5 +1,10 @@
 name: Ki Bing Daily
 
+- name: Fetch wallpaper
+        env:
+          UNSPLASH_ACCESS_KEY: ${{ secrets.UNDAILY }}
+        run: python fetch_bing.py
+
 on:
   schedule:
     - cron: '0 2 * * *'
