@@ -1,7 +1,17 @@
-# Daily Unsplash Wallpaper
+# Daily Wallpaper Storage
 
-![A person walking up white concrete stairs beside a glass building in Berlin](images/latest.jpg)
+## 1. Latest Wallpaper (`latest.jpg`)
+![Latest Wallpaper](images/latest.jpg)
 
-### A person walking up white concrete stairs beside a glass building in berlin
-**Дата:** 2026-09-29  
-**Автор:** [Yuri Krupenin](https://unsplash.com/@cubeofwood)
+* **Описание:** A person in a yellow jacket walking through a dense pine forest
+* **Дата:** 2026-09-29
+* **Автор:** [Filip Kvasnak](https://unsplash.com/@filipkvasnak)
+
+---
+
+## 2. Unsplash Archive (`unsplash.jpg`)
+![Unsplash Wallpaper](images/unsplash.jpg)
+
+* **Описание:** A person in a yellow jacket walking through a dense pine forest
+* **Дата:** 2026-09-29
+* **Автор:** [Filip Kvasnak](https://unsplash.com/@filipkvasnak)
