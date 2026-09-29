@@ -10,19 +10,16 @@ def fetch_unsplash_wallpaper():
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     }
 
-    # 1. Запрос к Unsplash
     res = requests.get(API_URL, headers=headers, timeout=15)
     res.raise_for_status()
     data = res.json()
-    
-    # 2. Извлечение данных
+ 
     img_url = data["urls"]["full"]
     title = data.get("alt_description") or "Unsplash Wallpaper"
     author_name = data["user"]["name"]
     author_link = data["user"]["links"]["html"]
     today = datetime.date.today().isoformat()
 
-    # 3. Сохранение изображений
     images_dir = os.path.join(os.getcwd(), "images")
     os.makedirs(images_dir, exist_ok=True)
 
@@ -34,7 +31,6 @@ def fetch_unsplash_wallpaper():
     with open(os.path.join(images_dir, "unsplash.jpg"), "wb") as f:
         f.write(img_bytes)
 
-    # 4. Обновление README с двумя отдельными блоками
     readme_content = f"""# Daily Wallpaper Storage
 
 ## 1. Latest Wallpaper (`latest.jpg`)
