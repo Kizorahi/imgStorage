@@ -9,8 +9,6 @@
 ---
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** A red and orange object floating in the air
+* **Описание:** A woman with a blonde braid in a floral top overlooking a river
 * **Дата:** 2026-09-29
-* **Автор:** [Philip Oroni](https://unsplash.com/@philipsfuture)
-
----
+* **Автор:** [Alina Chernovolova](https://unsplash.com/@alinachernovol)
