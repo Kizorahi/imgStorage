@@ -12,7 +12,7 @@ def fetch_unsplash_wallpaper():
 
     # 1. Запрос к Unsplash
     res = requests.get(API_URL, headers=headers, timeout=15)
-    res.raise_for_status()  # Если статус ответа не 200 (например, 401 Unauthorized), вызовет ошибку HTTP
+    res.raise_for_status()
     data = res.json()
     
     # 2. Извлечение данных
@@ -34,14 +34,24 @@ def fetch_unsplash_wallpaper():
     with open(os.path.join(images_dir, "unsplash.jpg"), "wb") as f:
         f.write(img_bytes)
 
-    # 4. Обновление README
-    readme_content = f"""# Daily Unsplash Wallpaper
+    # 4. Обновление README с двумя отдельными блоками
+    readme_content = f"""# Daily Wallpaper Storage
 
-![{title}](images/latest.jpg)
+## 1. Latest Wallpaper (`latest.jpg`)
+![Latest Wallpaper](images/latest.jpg)
 
-### {title.capitalize()}
-**Дата:** {today}  
-**Автор:** [{author_name}]({author_link})
+* **Описание:** {title.capitalize()}
+* **Дата:** {today}
+* **Автор:** [{author_name}]({author_link})
+
+---
+
+## 2. Unsplash Archive (`unsplash.jpg`)
+![Unsplash Wallpaper](images/unsplash.jpg)
+
+* **Описание:** {title.capitalize()}
+* **Дата:** {today}
+* **Автор:** [{author_name}]({author_link})
 """
     with open(os.path.join(os.getcwd(), "README.md"), "w", encoding="utf-8") as f:
         f.write(readme_content)
