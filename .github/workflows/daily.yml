@@ -1,9 +1,4 @@
-name: Ki Bing Daily
-
-- name: Fetch wallpaper
-        env:
-          UNSPLASH_ACCESS_KEY: ${{ secrets.UNDAILY }}
-        run: python fetch_bing.py
+name: Fetch Wallpaper Daily
 
 on:
   schedule:
@@ -31,6 +26,8 @@ jobs:
           pip install requests
 
       - name: Fetch wallpaper
+        env:
+          UNSPLASH_ACCESS_KEY: ${{ secrets.UNDAILY }}
         run: python fetch_bing.py
 
       - name: Commit and push changes
@@ -39,8 +36,8 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add images/ README.md
           if git diff --staged --quiet; then
-            echo "Изменений нет, коммит не требуется."
+            echo "Изменений нет"
           else
-            git commit -m "update: Bing wallpaper for $(date +'%Y-%m-%d')"
+            git commit -m "update: Wallpaper for $(date +'%Y-%m-%d')"
             git push
           fi
