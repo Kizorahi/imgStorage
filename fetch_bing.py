@@ -5,15 +5,18 @@ import requests
 UNSPLASH_KEY = os.environ.get("UNSPLASH_ACCESS_KEY")
 UNSPLASH_API = f"https://api.unsplash.com/photos/random?topics=wallpapers&orientation=landscape&client_id={UNSPLASH_KEY}"
 BING_API = "https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=de-DE"
+WALLHAVEN_API = "https://wallhaven.cc/api/v1/search?categories=100&purity=100&sorting=toplist&topRange=1M"
 
-HEADERS = { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" }
+HEADERS = { 
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" 
+}
 
 def fetch_all_wallpapers():
     today = datetime.date.today().isoformat()
     images_dir = os.path.join(os.getcwd(), "images")
     os.makedirs(images_dir, exist_ok=True)
 
-    # Bing
+    # 1. Bing
     bing_data = {}
     try:
         res = requests.get(BING_API, headers=HEADERS, timeout=15)
@@ -34,7 +37,7 @@ def fetch_all_wallpapers():
     except Exception as e:
         print(f"Error Bing: {e}")
 
-    # Unsplash
+    # 2. Unsplash
     unsplash_data = {}
     if UNSPLASH_KEY:
         try:
@@ -54,6 +57,30 @@ def fetch_all_wallpapers():
         except Exception as e:
             print(f"Error Unsplash: {e}")
 
+    # 3. Wallhaven
+    wallhaven_data = {}
+    try:
+        res = requests.get(WALLHAVEN_API, headers=HEADERS, timeout=15)
+        res.raise_for_status()
+        items = res.json().get("data", [])
+        if items:
+            first_bg = items[0]
+            img_url = first_bg["path"]
+            img_bytes = requests.get(img_url, headers=HEADERS, timeout=30).content
+            
+            with open(os.path.join(images_dir, "wallhaven.jpg"), "wb") as f:
+                f.write(img_bytes)
+                
+            wallhaven_data = {
+                "title": f"Wallhaven Wallpaper #{first_bg['id']}",
+                "url": first_bg["url"],
+                "resolution": first_bg["resolution"]
+            }
+            print("Wallhaven added!")
+    except Exception as e:
+        print(f"Error Wallhaven: {e}")
+
+    # Генерация README.md
     readme_content = f"# Daily Wallpaper Storage\n\n"
 
     if bing_data:
@@ -72,6 +99,16 @@ def fetch_all_wallpapers():
 * **Описание:** {unsplash_data['title']}
 * **Дата:** {today}
 * **Автор:** {unsplash_data['author']}
+
+---
+"""
+
+    if wallhaven_data:
+        readme_content += f"""## 3. Wallhaven (`wallhaven.jpg`)
+![Wallhaven](images/wallhaven.jpg)
+* **Заголовок:** [{wallhaven_data['title']}]({wallhaven_data['url']})
+* **Разрешение:** {wallhaven_data['resolution']}
+* **Дата:** {today}
 """
 
     with open(os.path.join(os.getcwd(), "README.md"), "w", encoding="utf-8") as f:
