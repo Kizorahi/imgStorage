@@ -1,7 +1,7 @@
 # Bing Daily Wallpaper
 
-![Geschichte mit Aussicht](images/latest.jpg)
+![Aus Gletschern entstanden](images/latest.jpg)
 
-### Geschichte mit Aussicht
-**Дата:** 2026-09-28  
-**Описание:** Sattais-Katcheri-Halle im Fort Amber bei Jaipur, Rajasthan, Indien (© R.M. Nunes/Getty Images)
+### Aus Gletschern entstanden
+**Дата:** 2026-09-29  
+**Описание:** Das blaue, von Gletschern gespeiste Wasser des Kasilof River in Alaska, USA (© jared lloyd/Getty Images)
