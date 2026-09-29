@@ -61,15 +61,20 @@ def fetch_all_wallpapers():
             print(f"Ошибка Unsplash: {e}")
 
     # --- 3. National Geographic ---
+    # --- 3. National Geographic ---
     natgeo_data = {}
     try:
         res = requests.get(NATGEO_API, headers=HEADERS, timeout=15)
         res.raise_for_status()
         item = res.json()["items"][0]
-        img_bytes = requests.get(item["originalUrl"], headers=HEADERS, timeout=30).content
+        
+        # Скачивание самой картинки с передачей HEADERS (избегаем 403 на картинке)
+        img_url = item["originalUrl"]
+        img_res = requests.get(img_url, headers=HEADERS, timeout=30)
+        img_res.raise_for_status()
         
         with open(os.path.join(images_dir, "natgeo.jpg"), "wb") as f:
-            f.write(img_bytes)
+            f.write(img_res.content)
             
         caption = item.get("caption", "").replace("<p>", "").replace("</p>", "").strip()
         natgeo_data = {
@@ -77,6 +82,7 @@ def fetch_all_wallpapers():
             "caption": caption,
             "author": item.get("credit", "National Geographic")
         }
+        print("NatGeo успешно загружен!")
     except Exception as e:
         print(f"Ошибка NatGeo: {e}")
 
