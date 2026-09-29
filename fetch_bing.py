@@ -2,8 +2,8 @@ import os
 import datetime
 import requests
 
-UNSPLASH_KEY = os.environ.get("unDaily")
-API_URL = f"https://api.unsplash.com/photos/random?topics=wallpapers&orientation=landscape&client_id={unDaily}"
+UNSPLASH_KEY = os.environ.get("UNDAILY")
+API_URL = f"https://api.unsplash.com/photos/random?topics=wallpapers&orientation=landscape&client_id={UNDAILY}"
 
 def fetch_unsplash_wallpaper():
     headers = {
