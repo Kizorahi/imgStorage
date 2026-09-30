@@ -2,22 +2,20 @@
 
 ## 1. Bing Wallpaper (`bing.jpg`)
 ![Bing](images/bing.jpg)
-* **Заголовок:** Aus Gletschern entstanden
-* **Описание:** Das blaue, von Gletschern gespeiste Wasser des Kasilof River in Alaska, USA (© jared lloyd/Getty Images)
-* **Дата:** 29 September 2026
+* **Заголовок:** Der Klang der Alpen
+* **Описание:** Alphornbläser in Bayern (© U. J. Alexander/Shutterstock)
+* **Дата:** 30 September 2026
 
 ---
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** A person in a yellow jacket walking through a dense pine forest
-* **Дата:** 29 September 2026
-* **Автор:** [Filip Kvasnak](https://unsplash.com/@filipkvasnak)
+* **Описание:** Diagonal shadows cast across a smooth white concrete wall
+* **Дата:** 30 September 2026
+* **Автор:** [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski)
 
 ---
 ## 3. Wallhaven (`wallhaven.jpg`)
 ![Wallhaven](images/wallhaven.jpg)
-* **Заголовок:** [Wallhaven Wallpaper #1qo22v](https://wallhaven.cc/w/1qo22v)
-* **Разрешение:** 2560x1440
-* **Дата:** 29 September 2026
-
----
+* **Заголовок:** [Wallhaven Wallpaper #og7je7](https://wallhaven.cc/w/og7je7)
+* **Разрешение:** 1920x1080
+* **Дата:** 30 September 2026
