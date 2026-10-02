@@ -25,8 +25,6 @@ def fetch_all_wallpapers():
         
         with open(os.path.join(images_dir, "bing.jpg"), "wb") as f:
             f.write(img_bytes)
-        with open(os.path.join(images_dir, "latest.jpg"), "wb") as f:
-            f.write(img_bytes)
             
         bing_data = {
             "title": data.get("title", "Bing Wallpaper"),
