@@ -2,20 +2,20 @@
 
 ## 1. Bing Wallpaper (`bing.jpg`)
 ![Bing](images/bing.jpg)
-* **Заголовок:** Kolosse des Nordens
-* **Описание:** Braunbär am Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, USA (© Danny Green/Nature Picture Library)
-* **Дата:** 02 October 2026
+* **Заголовок:** Ein Zeichen der Einheit
+* **Описание:** Brandenburger Tor, Berlin (© almir1968/Getty Images)
+* **Дата:** 03 October 2026
 
 ---
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** The hotel belvedere with red signage on a mountain pass in the swiss alps
-* **Дата:** 02 October 2026
-* **Автор:** [Chris Weiher](https://unsplash.com/@chrisvomradio)
+* **Описание:** A ferry crossing the bay before the san francisco skyline at golden hour
+* **Дата:** 03 October 2026
+* **Автор:** [Kellen Riggin](https://unsplash.com/@kalaniparker)
 
 ---
 ## 3. Wallhaven (`wallhaven.jpg`)
 ![Wallhaven](images/wallhaven.jpg)
-* **Заголовок:** [Wallhaven Wallpaper #1qoom9](https://wallhaven.cc/w/1qoom9)
-* **Разрешение:** 3840x2160
-* **Дата:** 02 October 2026
+* **Заголовок:** [Wallhaven Wallpaper #mlor11](https://wallhaven.cc/w/mlor11)
+* **Разрешение:** 1920x1080
+* **Дата:** 03 October 2026
