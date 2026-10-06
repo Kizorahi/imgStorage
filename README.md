@@ -2,20 +2,20 @@
 
 ## 1. Bing Wallpaper (`bing.jpg`)
 ![Bing](images/bing.jpg)
-* **Заголовок:** Lehren der Natur
-* **Описание:** Adeliepinguine, Antarktis (© Otto Plantema/Minden Pictures)
-* **Дата:** 05 October 2026
+* **Заголовок:** Erdgeschichte in bunten Streifen
+* **Описание:** Zhangye-Danxia-Geopark, Gansu, China (© Weiquan Lin/Getty Images)
+* **Дата:** 06 October 2026
 
 ---
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** A person in blue jeans and green rubber boots holding a rowan branch
-* **Дата:** 05 October 2026
-* **Автор:** [Anita Austvika](https://unsplash.com/@anitaaustvika)
+* **Описание:** Three letter beads spelling "gay" on a sparkling red surface
+* **Дата:** 06 October 2026
+* **Автор:** [Dmytro Bayer](https://unsplash.com/@dmytrobayer)
 
 ---
 ## 3. Wallhaven (`wallhaven.jpg`)
 ![Wallhaven](images/wallhaven.jpg)
-* **Заголовок:** [Wallhaven Wallpaper #7jxop3](https://wallhaven.cc/w/7jxop3)
-* **Разрешение:** 3840x2160
-* **Дата:** 05 October 2026
+* **Заголовок:** [Wallhaven Wallpaper #xek3w3](https://wallhaven.cc/w/xek3w3)
+* **Разрешение:** 1280x1350
+* **Дата:** 06 October 2026
