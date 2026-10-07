@@ -2,20 +2,20 @@
 
 ## 1. Bing Wallpaper (`bing.jpg`)
 ![Bing](images/bing.jpg)
-* **Заголовок:** Erdgeschichte in bunten Streifen
-* **Описание:** Zhangye-Danxia-Geopark, Gansu, China (© Weiquan Lin/Getty Images)
-* **Дата:** 06 October 2026
+* **Заголовок:** Wie im Märchen
+* **Описание:** Moosbedeckte Felsen im Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)
+* **Дата:** 07 October 2026
 
 ---
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** Three letter beads spelling "gay" on a sparkling red surface
-* **Дата:** 06 October 2026
-* **Автор:** [Dmytro Bayer](https://unsplash.com/@dmytrobayer)
+* **Описание:** A single orange cloud illuminated by low sun against a dark sky
+* **Дата:** 07 October 2026
+* **Автор:** [Arlind Photography](https://unsplash.com/@arlindphotography)
 
 ---
 ## 3. Wallhaven (`wallhaven.jpg`)
 ![Wallhaven](images/wallhaven.jpg)
-* **Заголовок:** [Wallhaven Wallpaper #xek3w3](https://wallhaven.cc/w/xek3w3)
-* **Разрешение:** 1280x1350
-* **Дата:** 06 October 2026
+* **Заголовок:** [Wallhaven Wallpaper #w53ryx](https://wallhaven.cc/w/w53ryx)
+* **Разрешение:** 6666x6666
+* **Дата:** 07 October 2026
