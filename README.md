@@ -2,20 +2,20 @@
 
 ## 1. Bing Wallpaper (`bing.jpg`)
 ![Bing](images/bing.jpg)
-* **Заголовок:** Meister der Tarnung
-* **Описание:** Krake in Abwehrhaltung, Mayotte, Indischer Ozean (© Gabriel Barathieu/Minden Pictures)
-* **Дата:** 08 October 2026
+* **Заголовок:** Korsikas felsige Inseln
+* **Описание:** Blick auf die Îles Sanguinaires vor Korsika, Frankreich (© Francesco Riccardo Iacomino/Getty Images)
+* **Дата:** 09 October 2026
 
 ---
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** A red pagoda and a roller coaster above boats on a pond
-* **Дата:** 08 October 2026
-* **Автор:** [Frank Huang](https://unsplash.com/@frankhme)
+* **Описание:** A person in a brown gingham dress and corduroy vest among peach dahlias
+* **Дата:** 09 October 2026
+* **Автор:** [Anita Austvika](https://unsplash.com/@anitaaustvika)
 
 ---
 ## 3. Wallhaven (`wallhaven.jpg`)
 ![Wallhaven](images/wallhaven.jpg)
-* **Заголовок:** [Wallhaven Wallpaper #k8j6jq](https://wallhaven.cc/w/k8j6jq)
-* **Разрешение:** 3200x1800
-* **Дата:** 08 October 2026
+* **Заголовок:** [Wallhaven Wallpaper #3q7ex6](https://wallhaven.cc/w/3q7ex6)
+* **Разрешение:** 2752x1536
+* **Дата:** 09 October 2026
