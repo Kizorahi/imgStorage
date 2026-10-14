@@ -2,20 +2,20 @@
 
 ## 1. Bing Wallpaper (`bing.jpg`)
 ![Bing](images/bing.jpg)
-* **Заголовок:** Eine Symphonie in Blau und Grün
-* **Описание:** Nationalpark Plitvicer Seen, Kroatien (© Jan Wlodarczyk/Alamy)
-* **Дата:** 13 October 2026
+* **Заголовок:** Spiralen durch die Zeit
+* **Описание:** Ammonitenfossilien aus der Jurazeit (© J Nemchinova/Getty Images)
+* **Дата:** 14 October 2026
 
 ---
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** A pink water lily blooming among large green lily pads on a pond
-* **Дата:** 13 October 2026
-* **Автор:** [Alexandr Popadin](https://unsplash.com/@irrabagon)
+* **Описание:** An aerial view of a solitary striped hill rising from a vast desert landscape
+* **Дата:** 14 October 2026
+* **Автор:** [sayan Nath](https://unsplash.com/@hiresayan)
 
 ---
 ## 3. Wallhaven (`wallhaven.jpg`)
 ![Wallhaven](images/wallhaven.jpg)
-* **Заголовок:** [Wallhaven Wallpaper #1qoy2w](https://wallhaven.cc/w/1qoy2w)
+* **Заголовок:** [Wallhaven Wallpaper #e8vljk](https://wallhaven.cc/w/e8vljk)
 * **Разрешение:** 3840x2160
-* **Дата:** 13 October 2026
+* **Дата:** 14 October 2026
