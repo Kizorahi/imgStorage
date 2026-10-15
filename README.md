@@ -2,20 +2,20 @@
 
 ## 1. Bing Wallpaper (`bing.jpg`)
 ![Bing](images/bing.jpg)
-* **Заголовок:** Spiralen durch die Zeit
-* **Описание:** Ammonitenfossilien aus der Jurazeit (© J Nemchinova/Getty Images)
-* **Дата:** 14 October 2026
+* **Заголовок:** Brücken, Dächer und Dämmerung
+* **Описание:** Blick auf den Breslauer Marktplatz von der Hexenbrücke in Breslau, Polen (© Piotr Mitelski/Shutterstock)
+* **Дата:** 15 October 2026
 
 ---
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** An aerial view of a solitary striped hill rising from a vast desert landscape
-* **Дата:** 14 October 2026
-* **Автор:** [sayan Nath](https://unsplash.com/@hiresayan)
+* **Описание:** A wooden entryway with a staircase, slate floor, and a view of trees
+* **Дата:** 15 October 2026
+* **Автор:** [Clay Banks](https://unsplash.com/@claybanks)
 
 ---
 ## 3. Wallhaven (`wallhaven.jpg`)
 ![Wallhaven](images/wallhaven.jpg)
-* **Заголовок:** [Wallhaven Wallpaper #e8vljk](https://wallhaven.cc/w/e8vljk)
+* **Заголовок:** [Wallhaven Wallpaper #pom1j9](https://wallhaven.cc/w/pom1j9)
 * **Разрешение:** 3840x2160
-* **Дата:** 14 October 2026
+* **Дата:** 15 October 2026
