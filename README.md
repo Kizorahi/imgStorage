@@ -2,20 +2,20 @@
 
 ## 1. Bing Wallpaper (`bing.jpg`)
 ![Bing](images/bing.jpg)
-* **Заголовок:** Brücken, Dächer und Dämmerung
-* **Описание:** Blick auf den Breslauer Marktplatz von der Hexenbrücke in Breslau, Polen (© Piotr Mitelski/Shutterstock)
-* **Дата:** 15 October 2026
+* **Заголовок:** Hoch über Bayern
+* **Описание:** Kloster Andechs bei Sonnenuntergang, Andechs, Bayern (© imageBROKER/Martin Moxter)
+* **Дата:** 16 October 2026
 
 ---
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** A wooden entryway with a staircase, slate floor, and a view of trees
-* **Дата:** 15 October 2026
-* **Автор:** [Clay Banks](https://unsplash.com/@claybanks)
+* **Описание:** A curved white architectural structure with repeating panels against a clear blue sky
+* **Дата:** 16 October 2026
+* **Автор:** [Declan Sun](https://unsplash.com/@declansun)
 
 ---
 ## 3. Wallhaven (`wallhaven.jpg`)
 ![Wallhaven](images/wallhaven.jpg)
-* **Заголовок:** [Wallhaven Wallpaper #pom1j9](https://wallhaven.cc/w/pom1j9)
-* **Разрешение:** 3840x2160
-* **Дата:** 15 October 2026
+* **Заголовок:** [Wallhaven Wallpaper #3q7vj9](https://wallhaven.cc/w/3q7vj9)
+* **Разрешение:** 4663x2623
+* **Дата:** 16 October 2026
