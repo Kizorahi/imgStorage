@@ -2,20 +2,20 @@
 
 ## 1. Bing Wallpaper (`bing.jpg`)
 ![Bing](images/bing.jpg)
-* **Заголовок:** Hoch über Bayern
-* **Описание:** Kloster Andechs bei Sonnenuntergang, Andechs, Bayern (© imageBROKER/Martin Moxter)
-* **Дата:** 16 October 2026
+* **Заголовок:** Die Vergangenheit ans Licht gebracht
+* **Описание:** Lebensgroße Nachbildung der Chauvet-Höhlenmalereien in Vallon-Pont-d'Arc, Frankreich (© Audrey Poree/Alamy)
+* **Дата:** 17 October 2026
 
 ---
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** A curved white architectural structure with repeating panels against a clear blue sky
-* **Дата:** 16 October 2026
-* **Автор:** [Declan Sun](https://unsplash.com/@declansun)
+* **Описание:** The north america nebula glowing with orange and grey gas clouds among scattered stars
+* **Дата:** 17 October 2026
+* **Автор:** [wallace Henry](https://unsplash.com/@ghostdogg187)
 
 ---
 ## 3. Wallhaven (`wallhaven.jpg`)
 ![Wallhaven](images/wallhaven.jpg)
-* **Заголовок:** [Wallhaven Wallpaper #3q7vj9](https://wallhaven.cc/w/3q7vj9)
-* **Разрешение:** 4663x2623
-* **Дата:** 16 October 2026
+* **Заголовок:** [Wallhaven Wallpaper #216qy6](https://wallhaven.cc/w/216qy6)
+* **Разрешение:** 3840x2160
+* **Дата:** 17 October 2026
