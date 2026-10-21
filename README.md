@@ -2,20 +2,20 @@
 
 ## 1. Bing Wallpaper (`bing.jpg`)
 ![Bing](images/bing.jpg)
-* **Заголовок:** Immer mit der Ruhe
-* **Описание:** Braunkehl-Faultier, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)
-* **Дата:** 20 October 2026
+* **Заголовок:** Über den Fluss fliegen
+* **Описание:** Nguyen-Hoang-Brücke über den Parfümfluss, Huế, Vietnam (© VU PHAM VAN/Getty Images)
+* **Дата:** 21 October 2026
 
 ---
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** Apartment buildings viewed through a dark window frame on a bright day
-* **Дата:** 20 October 2026
-* **Автор:** [Pau Gomez](https://unsplash.com/@pauggg)
+* **Описание:** Blurred mountain silhouettes against a vibrant orange and deep blue sky
+* **Дата:** 21 October 2026
+* **Автор:** [Marsumilae](https://unsplash.com/@marsumilae)
 
 ---
 ## 3. Wallhaven (`wallhaven.jpg`)
 ![Wallhaven](images/wallhaven.jpg)
-* **Заголовок:** [Wallhaven Wallpaper #216mjm](https://wallhaven.cc/w/216mjm)
-* **Разрешение:** 3840x2160
-* **Дата:** 20 October 2026
+* **Заголовок:** [Wallhaven Wallpaper #pomerp](https://wallhaven.cc/w/pomerp)
+* **Разрешение:** 3500x2777
+* **Дата:** 21 October 2026
