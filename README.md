@@ -2,20 +2,20 @@
 
 ## 1. Bing Wallpaper (`bing.jpg`)
 ![Bing](images/bing.jpg)
-* **Заголовок:** Partner in freier Wildbahn
-* **Описание:** Wölfe im Yellowstone-Nationalpark, Wyoming, USA (© John Morrison/Getty Images)
-* **Дата:** 23 October 2026
+* **Заголовок:** Architektur des Wissens
+* **Описание:** Philologische Bibliothek der Freien Universität Berlin, Berlin (© ullstein bild/Getty Images)
+* **Дата:** 24 October 2026
 
 ---
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** A person with a backpack walking toward a mountain lake in a valley
-* **Дата:** 23 October 2026
-* **Автор:** [Enfocus Collective](https://unsplash.com/@enfocuscollective)
+* **Описание:** A blue and green dragonfly in flight against a solid black background
+* **Дата:** 24 October 2026
+* **Автор:** [Dmytro Koplyk](https://unsplash.com/@dkoplyk)
 
 ---
 ## 3. Wallhaven (`wallhaven.jpg`)
 ![Wallhaven](images/wallhaven.jpg)
-* **Заголовок:** [Wallhaven Wallpaper #8g8lg2](https://wallhaven.cc/w/8g8lg2)
-* **Разрешение:** 3456x5184
-* **Дата:** 23 October 2026
+* **Заголовок:** [Wallhaven Wallpaper #jelmp5](https://wallhaven.cc/w/jelmp5)
+* **Разрешение:** 5504x3096
+* **Дата:** 24 October 2026
