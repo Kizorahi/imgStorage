@@ -2,20 +2,20 @@
 
 ## 1. Bing Wallpaper (`bing.jpg`)
 ![Bing](images/bing.jpg)
-* **Заголовок:** Architektur des Wissens
-* **Описание:** Philologische Bibliothek der Freien Universität Berlin, Berlin (© ullstein bild/Getty Images)
-* **Дата:** 24 October 2026
+* **Заголовок:** Wo Gipfel auf Stille treffen
+* **Описание:** Maligne Lake, Jasper-Nationalpark, Alberta, Kanada (© Andrey Popov/Getty Images)
+* **Дата:** 25 October 2026
 
 ---
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** A blue and green dragonfly in flight against a solid black background
-* **Дата:** 24 October 2026
-* **Автор:** [Dmytro Koplyk](https://unsplash.com/@dkoplyk)
+* **Описание:** A modern kitchen with wood cabinets, a white island, and four bar stools
+* **Дата:** 25 October 2026
+* **Автор:** [Clay Banks](https://unsplash.com/@claybanks)
 
 ---
 ## 3. Wallhaven (`wallhaven.jpg`)
 ![Wallhaven](images/wallhaven.jpg)
-* **Заголовок:** [Wallhaven Wallpaper #jelmp5](https://wallhaven.cc/w/jelmp5)
-* **Разрешение:** 5504x3096
-* **Дата:** 24 October 2026
+* **Заголовок:** [Wallhaven Wallpaper #mlo89k](https://wallhaven.cc/w/mlo89k)
+* **Разрешение:** 3840x2160
+* **Дата:** 25 October 2026
