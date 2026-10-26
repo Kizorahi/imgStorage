@@ -9,9 +9,9 @@
 ---
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** A man with a beard and sunglasses looking up at the rain in a forest
+* **Описание:** A brown frog resting on a green lily pad in dark pond water
 * **Дата:** 26 October 2026
-* **Автор:** [Omar Ramadan](https://unsplash.com/@omarvellous14)
+* **Автор:** [Ahmet Yüksek ✪](https://unsplash.com/@ahmetyuksek)
 
 ---
 ## 3. Wallhaven (`wallhaven.jpg`)
@@ -24,7 +24,7 @@
 ## 4. Picsum (`picsum.jpg`)
 ![Picsum](images/picsum.jpg)
 * **Заголовок:** Picsum Random Photo
-* **Источник:** [https://fastly.picsum.photos/id/791/1920/1080.jpg?hmac=lwUwAhUwePB_Xfst5z0YDROe5Q7nvyEhOyE6e6WEKNo](https://fastly.picsum.photos/id/791/1920/1080.jpg?hmac=lwUwAhUwePB_Xfst5z0YDROe5Q7nvyEhOyE6e6WEKNo)
+* **Источник:** [https://fastly.picsum.photos/id/390/1920/1080.jpg?hmac=vkHNK6c3dJLt5iYc_cjx56jCbbifKu3_Rl2FS7m1C7I](https://fastly.picsum.photos/id/390/1920/1080.jpg?hmac=vkHNK6c3dJLt5iYc_cjx56jCbbifKu3_Rl2FS7m1C7I)
 * **Дата:** 26 October 2026
 
 ---
