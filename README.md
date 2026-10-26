@@ -2,20 +2,20 @@
 
 ## 1. Bing Wallpaper (`bing.jpg`)
 ![Bing](images/bing.jpg)
-* **Заголовок:** Wo Gipfel auf Stille treffen
-* **Описание:** Maligne Lake, Jasper-Nationalpark, Alberta, Kanada (© Andrey Popov/Getty Images)
-* **Дата:** 25 October 2026
+* **Заголовок:** Der Klang des Herbstes
+* **Описание:** Wasserfälle bei Sitovo im Herbst, Plowdiw, Bulgarien (© Nadya85/Getty Images)
+* **Дата:** 26 October 2026
 
 ---
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** A modern kitchen with wood cabinets, a white island, and four bar stools
-* **Дата:** 25 October 2026
-* **Автор:** [Clay Banks](https://unsplash.com/@claybanks)
+* **Описание:** An aerial view of a dense forest with a mix of green and golden autumn foliage
+* **Дата:** 26 October 2026
+* **Автор:** [Adrian Infernus](https://unsplash.com/@adrian_infernus)
 
 ---
 ## 3. Wallhaven (`wallhaven.jpg`)
 ![Wallhaven](images/wallhaven.jpg)
-* **Заголовок:** [Wallhaven Wallpaper #mlo89k](https://wallhaven.cc/w/mlo89k)
+* **Заголовок:** [Wallhaven Wallpaper #og7km5](https://wallhaven.cc/w/og7km5)
 * **Разрешение:** 3840x2160
-* **Дата:** 25 October 2026
+* **Дата:** 26 October 2026
