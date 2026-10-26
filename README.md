@@ -9,7 +9,7 @@
 ---
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** Large sandstone rock formations surrounded by a dense pine forest
+* **Описание:** A brown frog resting on a green lily pad in dark pond water
 * **Дата:** 26 October 2026
 * **Автор:** [Ahmet Yüksek ✪](https://unsplash.com/@ahmetyuksek)
 
@@ -24,7 +24,7 @@
 ## 4. Picsum (`picsum.jpg`)
 ![Picsum](images/picsum.jpg)
 * **Заголовок:** Picsum Random Photo
-* **Источник:** [https://fastly.picsum.photos/id/838/1920/1080.jpg?hmac=qH4MLDUdEFwL12jqaewVrzArc3n1C7ltmi1d1hPxUW0](https://fastly.picsum.photos/id/838/1920/1080.jpg?hmac=qH4MLDUdEFwL12jqaewVrzArc3n1C7ltmi1d1hPxUW0)
+* **Источник:** [https://fastly.picsum.photos/id/848/1920/1080.jpg?hmac=fKk31g0MJeQyXd6UsZd7ijWZibXy4d5BJhnXsiow3MI](https://fastly.picsum.photos/id/848/1920/1080.jpg?hmac=fKk31g0MJeQyXd6UsZd7ijWZibXy4d5BJhnXsiow3MI)
 * **Дата:** 26 October 2026
 
 ---
