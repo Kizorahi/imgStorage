@@ -9,9 +9,9 @@
 ---
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** A grey plover walking through shallow water with a clear reflection on the surface
+* **Описание:** A person walking along a rocky forest path surrounded by tall pine trees
 * **Дата:** 26 October 2026
-* **Автор:** [Matsvei Liatkouski](https://unsplash.com/@matt_liatkouski)
+* **Автор:** [Filip Kvasnak](https://unsplash.com/@filipkvasnak)
 
 ---
 ## 3. Wallhaven (`wallhaven.jpg`)
@@ -21,8 +21,8 @@
 * **Дата:** 26 October 2026
 
 ---
-## 5. Picsum (`picsum.jpg`)
+## 4. Picsum (`picsum.jpg`)
 ![Picsum](images/picsum.jpg)
 * **Заголовок:** Picsum Random Photo
-* **Источник:** [https://fastly.picsum.photos/id/495/1920/1080.jpg?hmac=W403EyhDqvhPPS1Cg1NrbTII-JAMdtoIbV0r25xQrY4](https://fastly.picsum.photos/id/495/1920/1080.jpg?hmac=W403EyhDqvhPPS1Cg1NrbTII-JAMdtoIbV0r25xQrY4)
+* **Источник:** [https://fastly.picsum.photos/id/173/1920/1080.jpg?hmac=OGOXhNmW53tlx-Iw_TOlu_GwtROuQ-IjHL3EqEk-UBw](https://fastly.picsum.photos/id/173/1920/1080.jpg?hmac=OGOXhNmW53tlx-Iw_TOlu_GwtROuQ-IjHL3EqEk-UBw)
 * **Дата:** 26 October 2026
