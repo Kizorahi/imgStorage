@@ -9,9 +9,9 @@
 ---
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** Rocky mountain peaks under a soft blue sky with warm golden light
+* **Описание:** A view of green fields and misty hills from a car side mirror
 * **Дата:** 26 October 2026
-* **Автор:** [Jivan Garcha](https://unsplash.com/@jivangarcha)
+* **Автор:** [T](https://unsplash.com/@tanyabarrow)
 
 ---
 ## 3. Wallhaven (`wallhaven.jpg`)
@@ -24,7 +24,7 @@
 ## 4. Picsum (`picsum.jpg`)
 ![Picsum](images/picsum.jpg)
 * **Заголовок:** Picsum Random Photo
-* **Источник:** [https://fastly.picsum.photos/id/874/1920/1080.jpg?hmac=KDasAF181mAxmXNbuGtvtHJbH76BdEIytcGuwPC2-6c](https://fastly.picsum.photos/id/874/1920/1080.jpg?hmac=KDasAF181mAxmXNbuGtvtHJbH76BdEIytcGuwPC2-6c)
+* **Источник:** [https://fastly.picsum.photos/id/820/1920/1080.jpg?hmac=dQD6a5N-nhcXyqqJIpQH-ANO786YtE6aaAoh7-Lxpps](https://fastly.picsum.photos/id/820/1920/1080.jpg?hmac=dQD6a5N-nhcXyqqJIpQH-ANO786YtE6aaAoh7-Lxpps)
 * **Дата:** 26 October 2026
 
 ---
