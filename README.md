@@ -9,13 +9,20 @@
 ---
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** An aerial view of a dense forest with a mix of green and golden autumn foliage
+* **Описание:** A grey plover walking through shallow water with a clear reflection on the surface
 * **Дата:** 26 October 2026
-* **Автор:** [Adrian Infernus](https://unsplash.com/@adrian_infernus)
+* **Автор:** [Matsvei Liatkouski](https://unsplash.com/@matt_liatkouski)
 
 ---
 ## 3. Wallhaven (`wallhaven.jpg`)
 ![Wallhaven](images/wallhaven.jpg)
-* **Заголовок:** [Wallhaven Wallpaper #og7km5](https://wallhaven.cc/w/og7km5)
-* **Разрешение:** 3840x2160
+* **Заголовок:** [Wallhaven Wallpaper #jel62w](https://wallhaven.cc/w/jel62w)
+* **Разрешение:** 2880x1800
+* **Дата:** 26 October 2026
+
+---
+## 5. Picsum (`picsum.jpg`)
+![Picsum](images/picsum.jpg)
+* **Заголовок:** Picsum Random Photo
+* **Источник:** [https://fastly.picsum.photos/id/495/1920/1080.jpg?hmac=W403EyhDqvhPPS1Cg1NrbTII-JAMdtoIbV0r25xQrY4](https://fastly.picsum.photos/id/495/1920/1080.jpg?hmac=W403EyhDqvhPPS1Cg1NrbTII-JAMdtoIbV0r25xQrY4)
 * **Дата:** 26 October 2026
