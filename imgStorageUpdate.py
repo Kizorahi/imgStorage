@@ -7,7 +7,6 @@ UNSPLASH_API = f"https://api.unsplash.com/photos/random?topics=wallpapers&orient
 BING_API = "https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=de-DE"
 WALLHAVEN_API = "https://wallhaven.cc/api/v1/search?categories=100&purity=100&sorting=date_added&order=desc"
 PICSUM_API = "https://picsum.photos/1920/1080"
-
 PIXABAY_KEY = os.environ.get("PIXABAY_API_KEY")
 PIXABAY_API = "https://pixabay.com/api/"
 
