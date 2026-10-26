@@ -9,9 +9,9 @@
 ---
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** A person walking along a rocky forest path surrounded by tall pine trees
+* **Описание:** Rocky mountain peaks under a soft blue sky with warm golden light
 * **Дата:** 26 October 2026
-* **Автор:** [Filip Kvasnak](https://unsplash.com/@filipkvasnak)
+* **Автор:** [Jivan Garcha](https://unsplash.com/@jivangarcha)
 
 ---
 ## 3. Wallhaven (`wallhaven.jpg`)
@@ -24,5 +24,7 @@
 ## 4. Picsum (`picsum.jpg`)
 ![Picsum](images/picsum.jpg)
 * **Заголовок:** Picsum Random Photo
-* **Источник:** [https://fastly.picsum.photos/id/173/1920/1080.jpg?hmac=OGOXhNmW53tlx-Iw_TOlu_GwtROuQ-IjHL3EqEk-UBw](https://fastly.picsum.photos/id/173/1920/1080.jpg?hmac=OGOXhNmW53tlx-Iw_TOlu_GwtROuQ-IjHL3EqEk-UBw)
+* **Источник:** [https://fastly.picsum.photos/id/874/1920/1080.jpg?hmac=KDasAF181mAxmXNbuGtvtHJbH76BdEIytcGuwPC2-6c](https://fastly.picsum.photos/id/874/1920/1080.jpg?hmac=KDasAF181mAxmXNbuGtvtHJbH76BdEIytcGuwPC2-6c)
 * **Дата:** 26 October 2026
+
+---
