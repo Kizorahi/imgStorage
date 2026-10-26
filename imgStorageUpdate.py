@@ -8,6 +8,9 @@ BING_API = "https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=de-
 WALLHAVEN_API = "https://wallhaven.cc/api/v1/search?categories=100&purity=100&sorting=date_added&order=desc"
 PICSUM_API = "https://picsum.photos/1920/1080"
 
+PIXABAY_KEY = os.environ.get("PIXABAY_API_KEY")
+PIXABAY_API = "https://pixabay.com/api/"
+
 HEADERS = { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" }
 
 def fetch_all_wallpapers():
@@ -97,6 +100,59 @@ def fetch_all_wallpapers():
     except Exception as e:
         print(f"Error Picsum: {e}")
 
+    # Pixabay
+    pixabay_data = {}
+    if PIXABAY_KEY:
+        try:
+            params = {
+                "key": PIXABAY_KEY,
+                "q": "wallpaper",
+                "image_type": "photo",
+                "orientation": "horizontal",   # горизонтальные
+                "per_page": 20,
+                "safesearch": "true",
+                "order": "latest",
+            }
+            res = requests.get(PIXABAY_API, params=params, headers=HEADERS, timeout=15)
+            res.raise_for_status()
+            hits = res.json().get("hits", [])
+
+            target_ratio = 16 / 9
+            candidates = []
+            for h in hits:
+                w, hh = h.get("imageWidth"), h.get("imageHeight")
+                if not w or not hh:
+                    continue
+                ratio = w / hh
+                if abs(ratio - target_ratio) <= 0.15:
+                    candidates.append(h)
+
+            if not candidates and hits:
+                candidates = sorted(
+                    hits,
+                    key=lambda h: abs((h.get("imageWidth", 0) / max(h.get("imageHeight", 1), 1)) - target_ratio)
+                )[:5]
+
+            if candidates:
+                chosen = candidates[0]
+                img_url = chosen.get("largeImageURL") or chosen.get("webformatURL")
+                img_bytes = requests.get(img_url, headers=HEADERS, timeout=30).content
+
+                with open(os.path.join(images_dir, "pixabay.jpg"), "wb") as f:
+                    f.write(img_bytes)
+
+                pixabay_data = {
+                    "title": (chosen.get("tags") or "Pixabay Wallpaper").capitalize(),
+                    "author": f"[{chosen.get('user', 'Pixabay')}]({chosen.get('pageURL', 'https://pixabay.com')})",
+                    "resolution": f"{chosen.get('imageWidth')}x{chosen.get('imageHeight')}",
+                    "url": chosen.get("pageURL", "https://pixabay.com"),
+                }
+                print("Pixabay added!")
+            else:
+                print("Error Pixabay: no suitable images found")
+        except Exception as e:
+            print(f"Error Pixabay: {e}")
+
     readme_content = f"# Daily Wallpaper Storage\n\n"
 
     if bing_data:
@@ -134,6 +190,18 @@ def fetch_all_wallpapers():
 ![Picsum](images/picsum.jpg)
 * **Заголовок:** {picsum_data['title']}
 * **Источник:** [{picsum_data['final_url']}]({picsum_data['final_url']})
+* **Дата:** {today}
+
+---
+"""
+
+    if pixabay_data:
+        readme_content += f"""## 5. Pixabay (`pixabay.jpg`)
+![Pixabay](images/pixabay.jpg)
+* **Заголовок:** {pixabay_data['title']}
+* **Разрешение:** {pixabay_data['resolution']}
+* **Источник:** [{pixabay_data['url']}]({pixabay_data['url']})
+* **Автор:** {pixabay_data['author']}
 * **Дата:** {today}
 """
 
