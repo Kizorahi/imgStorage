@@ -1,5 +1,4 @@
 import os
-import random
 import datetime
 import requests
 
@@ -7,7 +6,6 @@ UNSPLASH_KEY = os.environ.get("UNSPLASH_ACCESS_KEY")
 UNSPLASH_API = f"https://api.unsplash.com/photos/random?topics=wallpapers&orientation=landscape&client_id={UNSPLASH_KEY}"
 BING_API = "https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=de-DE"
 WALLHAVEN_API = "https://wallhaven.cc/api/v1/search?categories=100&purity=100&sorting=date_added&order=desc"
-LOREMFLICKR_API = "https://loremflickr.com/1920/1080/wallpaper,landscape/all"
 PICSUM_API = "https://picsum.photos/1920/1080"
 
 HEADERS = { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" }
@@ -79,27 +77,6 @@ def fetch_all_wallpapers():
     except Exception as e:
         print(f"Error Wallhaven: {e}")
 
-    # LoremFlickr
-    loremflickr_data = {}
-    try:
-        url = f"{LOREMFLICKR_API}?random={random.randint(1, 1_000_000)}"
-        res = requests.get(url, headers=HEADERS, timeout=30)
-        res.raise_for_status()
-        content_type = res.headers.get("Content-Type", "")
-        if "image" in content_type:
-            with open(os.path.join(images_dir, "loremflickr.jpg"), "wb") as f:
-                f.write(res.content)
-            loremflickr_data = {
-                "title": "LoremFlickr Random Wallpaper",
-                "keywords": "wallpaper, landscape",
-                "url": "https://loremflickr.com/1920/1080/wallpaper,landscape"
-            }
-            print("LoremFlickr added!")
-        else:
-            print(f"Error LoremFlickr: unexpected content-type {content_type}")
-    except Exception as e:
-        print(f"Error LoremFlickr: {e}")
-
     # Picsum
     picsum_data = {}
     try:
@@ -152,19 +129,8 @@ def fetch_all_wallpapers():
 ---
 """
 
-    if loremflickr_data:
-        readme_content += f"""## 4. LoremFlickr (`loremflickr.jpg`)
-![LoremFlickr](images/loremflickr.jpg)
-* **Заголовок:** {loremflickr_data['title']}
-* **Ключевые слова:** {loremflickr_data['keywords']}
-* **Источник:** [{loremflickr_data['url']}]({loremflickr_data['url']})
-* **Дата:** {today}
-
----
-"""
-
     if picsum_data:
-        readme_content += f"""## 5. Picsum (`picsum.jpg`)
+        readme_content += f"""## 4. Picsum (`picsum.jpg`)
 ![Picsum](images/picsum.jpg)
 * **Заголовок:** {picsum_data['title']}
 * **Источник:** [{picsum_data['final_url']}]({picsum_data['final_url']})
