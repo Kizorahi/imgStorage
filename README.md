@@ -9,9 +9,9 @@
 ---
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** A view of green fields and misty hills from a car side mirror
+* **Описание:** Large sandstone rock formations surrounded by a dense pine forest
 * **Дата:** 26 October 2026
-* **Автор:** [T](https://unsplash.com/@tanyabarrow)
+* **Автор:** [Ahmet Yüksek ✪](https://unsplash.com/@ahmetyuksek)
 
 ---
 ## 3. Wallhaven (`wallhaven.jpg`)
@@ -24,7 +24,14 @@
 ## 4. Picsum (`picsum.jpg`)
 ![Picsum](images/picsum.jpg)
 * **Заголовок:** Picsum Random Photo
-* **Источник:** [https://fastly.picsum.photos/id/820/1920/1080.jpg?hmac=dQD6a5N-nhcXyqqJIpQH-ANO786YtE6aaAoh7-Lxpps](https://fastly.picsum.photos/id/820/1920/1080.jpg?hmac=dQD6a5N-nhcXyqqJIpQH-ANO786YtE6aaAoh7-Lxpps)
+* **Источник:** [https://fastly.picsum.photos/id/838/1920/1080.jpg?hmac=qH4MLDUdEFwL12jqaewVrzArc3n1C7ltmi1d1hPxUW0](https://fastly.picsum.photos/id/838/1920/1080.jpg?hmac=qH4MLDUdEFwL12jqaewVrzArc3n1C7ltmi1d1hPxUW0)
 * **Дата:** 26 October 2026
 
 ---
+## 5. Pixabay (`pixabay.jpg`)
+![Pixabay](images/pixabay.jpg)
+* **Заголовок:** Sparrow, beautiful nature, house sparrow, laptop wallpaper, small bird, wildlife, bird, 4k wallpaper 1920x1080, songbird, tree bark, mac wallpaper, tree stump, nature, full hd wallpaper, beautiful wallpaper, wallpaper hd, wallpaper 4k, free wallpaper, 4k wallpaper, wood, feathers, plumage, nature wallpaper, windows wallpaper, nature background, desktop backgrounds, hd wallpaper, fauna, beak, nature bokeh, brown background, bokeh background, free background, cool backgrounds, wallpaper, natural background
+* **Разрешение:** 3152x1909
+* **Источник:** [https://pixabay.com/photos/sparrow-house-sparrow-small-bird-10508770/](https://pixabay.com/photos/sparrow-house-sparrow-small-bird-10508770/)
+* **Автор:** [terbe_rezso](https://pixabay.com/photos/sparrow-house-sparrow-small-bird-10508770/)
+* **Дата:** 26 October 2026
