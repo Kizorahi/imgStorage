@@ -9,9 +9,9 @@
 ---
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** Waves crashing on a sandy beach from above
+* **Описание:** A group of horses grazing in a field before snow-capped mountains at low sun
 * **Дата:** 28 October 2026
-* **Автор:** [Huseyin Benli](https://unsplash.com/@huseyinbenli)
+* **Автор:** [Kevin Krüger](https://unsplash.com/@kruegersn)
 
 ---
 ## 3. Wallhaven (`wallhaven.jpg`)
@@ -24,14 +24,14 @@
 ## 4. Picsum (`picsum.jpg`)
 ![Picsum](images/picsum.jpg)
 * **Заголовок:** Picsum Random Photo
-* **Источник:** [https://fastly.picsum.photos/id/4/1920/1080.jpg?hmac=H50sx6yP0d_IqEoUr_E4DeaPRNa4JdRfNIK1FUz5PRs](https://fastly.picsum.photos/id/4/1920/1080.jpg?hmac=H50sx6yP0d_IqEoUr_E4DeaPRNa4JdRfNIK1FUz5PRs)
+* **Источник:** [https://fastly.picsum.photos/id/593/1920/1080.jpg?hmac=gqHwgn2ic3vg8MsJrYV05oG9aD-YpmuJjuGRdPjO8ak](https://fastly.picsum.photos/id/593/1920/1080.jpg?hmac=gqHwgn2ic3vg8MsJrYV05oG9aD-YpmuJjuGRdPjO8ak)
 * **Дата:** 28 October 2026
 
 ---
 ## 5. Pixabay (`pixabay.jpg`)
 ![Pixabay](images/pixabay.jpg)
-* **Заголовок:** Moon, night, hd wallpaper, free wallpaper, celestial bodies, free background, planet, universe, infinity, windows wallpaper, crater, nature, laptop wallpaper, mac wallpaper, 4k wallpaper 1920x1080, beauty, full hd wallpaper, wallpaper 4k, wallpaper hd, beautiful wallpaper, cool backgrounds, desktop backgrounds, 4k wallpaper, background
-* **Разрешение:** 6000x3376
-* **Источник:** [https://pixabay.com/photos/moon-night-celestial-bodies-planet-9058770/](https://pixabay.com/photos/moon-night-celestial-bodies-planet-9058770/)
-* **Автор:** [Mylene2401](https://pixabay.com/photos/moon-night-celestial-bodies-planet-9058770/)
+* **Заголовок:** Seashells, free wallpaper, free background, face, 4k wallpaper 1920x1080, cool backgrounds, hd wallpaper, wallpaper 4k, mac wallpaper, chapel, beautiful wallpaper, the painting, full hd wallpaper, deco, aquatic, desktop backgrounds, windows wallpaper, laptop wallpaper, art, 4k wallpaper, wallpaper hd, wallpaper, desktop picture, hintergrundsbild, yk
+* **Разрешение:** 7551x4472
+* **Источник:** [https://pixabay.com/photos/seashells-face-chapel-the-painting-9228471/](https://pixabay.com/photos/seashells-face-chapel-the-painting-9228471/)
+* **Автор:** [ykaiavu](https://pixabay.com/photos/seashells-face-chapel-the-painting-9228471/)
 * **Дата:** 28 October 2026
