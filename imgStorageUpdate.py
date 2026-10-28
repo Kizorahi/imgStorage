@@ -1,4 +1,5 @@
 import os
+import random
 import datetime
 import requests
 
@@ -10,7 +11,60 @@ PICSUM_API = "https://picsum.photos/1920/1080"
 PIXABAY_KEY = os.environ.get("PIXABAY_API_KEY")
 PIXABAY_API = "https://pixabay.com/api/"
 
-HEADERS = { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" }
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                  "(KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+}
+
+
+def get_pixabay_candidates(params_base, pages_to_try=5):
+    """Собирает кандидатов 16:9 со случайных страниц Pixabay."""
+    try:
+        probe = dict(params_base, page=1)
+        res = requests.get(PIXABAY_API, params=probe, headers=HEADERS, timeout=15)
+        res.raise_for_status()
+        total = res.json().get("totalHits", 0)
+    except Exception as e:
+        print(f"Error Pixabay (probe): {e}")
+        return []
+
+    per_page = params_base["per_page"]
+    total_pages = min((total + per_page - 1) // per_page, 50)
+
+    if total_pages < 1:
+        return []
+
+    target_ratio = 16 / 9
+    tried = set()
+    candidates = []
+
+    for _ in range(pages_to_try):
+        page = random.randint(1, total_pages)
+        if page in tried:
+            continue
+        tried.add(page)
+
+        try:
+            res = requests.get(PIXABAY_API, params=dict(params_base, page=page),
+                               headers=HEADERS, timeout=15)
+            res.raise_for_status()
+            hits = res.json().get("hits", [])
+        except Exception as e:
+            print(f"Error Pixabay (page {page}): {e}")
+            continue
+
+        for h in hits:
+            w, hh = h.get("imageWidth"), h.get("imageHeight")
+            if not w or not hh:
+                continue
+            if abs(w / hh - target_ratio) <= 0.15:
+                candidates.append(h)
+
+        if len(candidates) >= 5:
+            break
+
+    return candidates
+
 
 def fetch_all_wallpapers():
     today = datetime.date.today().strftime("%d %B %Y")
@@ -23,14 +77,15 @@ def fetch_all_wallpapers():
         res = requests.get(BING_API, headers=HEADERS, timeout=15)
         res.raise_for_status()
         data = res.json()["images"][0]
-        img_bytes = requests.get("https://www.bing.com" + data["url"], headers=HEADERS, timeout=30).content
-        
+        img_bytes = requests.get("https://www.bing.com" + data["url"],
+                                 headers=HEADERS, timeout=30).content
+
         with open(os.path.join(images_dir, "bing.jpg"), "wb") as f:
             f.write(img_bytes)
-            
+
         bing_data = {
             "title": data.get("title", "Bing Wallpaper"),
-            "copyright": data.get("copyright", "Bing")
+            "copyright": data.get("copyright", "Bing"),
         }
         print("Bing added!")
     except Exception as e:
@@ -43,14 +98,15 @@ def fetch_all_wallpapers():
             res = requests.get(UNSPLASH_API, headers=HEADERS, timeout=15)
             res.raise_for_status()
             data = res.json()
-            img_bytes = requests.get(data["urls"]["full"], headers=HEADERS, timeout=30).content
-            
+            img_bytes = requests.get(data["urls"]["full"],
+                                     headers=HEADERS, timeout=30).content
+
             with open(os.path.join(images_dir, "unsplash.jpg"), "wb") as f:
                 f.write(img_bytes)
-                
+
             unsplash_data = {
                 "title": (data.get("alt_description") or "Unsplash Wallpaper").capitalize(),
-                "author": f"[{data['user']['name']}]({data['user']['links']['html']})"
+                "author": f"[{data['user']['name']}]({data['user']['links']['html']})",
             }
             print("Unsplash added!")
         except Exception as e:
@@ -66,14 +122,14 @@ def fetch_all_wallpapers():
             latest_bg = items[0]
             img_url = latest_bg["path"]
             img_bytes = requests.get(img_url, headers=HEADERS, timeout=30).content
-            
+
             with open(os.path.join(images_dir, "wallhaven.jpg"), "wb") as f:
                 f.write(img_bytes)
-                
+
             wallhaven_data = {
                 "title": f"Wallhaven Wallpaper #{latest_bg['id']}",
                 "url": latest_bg["url"],
-                "resolution": latest_bg["resolution"]
+                "resolution": latest_bg["resolution"],
             }
             print("Wallhaven added!")
     except Exception as e:
@@ -91,7 +147,7 @@ def fetch_all_wallpapers():
             picsum_data = {
                 "title": "Picsum Random Photo",
                 "url": "https://picsum.photos/1920/1080",
-                "final_url": res.url
+                "final_url": res.url,
             }
             print("Picsum added!")
         else:
@@ -107,33 +163,31 @@ def fetch_all_wallpapers():
                 "key": PIXABAY_KEY,
                 "q": "wallpaper",
                 "image_type": "photo",
-                "orientation": "horizontal",   # горизонтальные
-                "per_page": 20,
+                "orientation": "horizontal",
+                "per_page": 50,
                 "safesearch": "true",
-                "order": "latest",
+                "order": "popular",
             }
-            res = requests.get(PIXABAY_API, params=params, headers=HEADERS, timeout=15)
-            res.raise_for_status()
-            hits = res.json().get("hits", [])
 
-            target_ratio = 16 / 9
-            candidates = []
-            for h in hits:
-                w, hh = h.get("imageWidth"), h.get("imageHeight")
-                if not w or not hh:
-                    continue
-                ratio = w / hh
-                if abs(ratio - target_ratio) <= 0.15:
-                    candidates.append(h)
+            candidates = get_pixabay_candidates(params, pages_to_try=5)
 
-            if not candidates and hits:
-                candidates = sorted(
-                    hits,
-                    key=lambda h: abs((h.get("imageWidth", 0) / max(h.get("imageHeight", 1), 1)) - target_ratio)
-                )[:5]
+            if not candidates:
+                probe = requests.get(PIXABAY_API, params=dict(params, page=1),
+                                     headers=HEADERS, timeout=15)
+                probe.raise_for_status()
+                total = probe.json().get("totalHits", 0)
+                total_pages = min((total + params["per_page"] - 1) // params["per_page"], 50)
+                if total_pages >= 1:
+                    page = random.randint(1, total_pages)
+                    res = requests.get(PIXABAY_API, params=dict(params, page=page),
+                                       headers=HEADERS, timeout=15)
+                    res.raise_for_status()
+                    hits = res.json().get("hits", [])
+                    if hits:
+                        candidates = [random.choice(hits)]
 
             if candidates:
-                chosen = candidates[0]
+                chosen = random.choice(candidates)
                 img_url = chosen.get("largeImageURL") or chosen.get("webformatURL")
                 img_bytes = requests.get(img_url, headers=HEADERS, timeout=30).content
 
@@ -152,7 +206,7 @@ def fetch_all_wallpapers():
         except Exception as e:
             print(f"Error Pixabay: {e}")
 
-    readme_content = f"# Daily Wallpaper Storage\n\n"
+    readme_content = "# Daily Wallpaper Storage\n\n"
 
     if bing_data:
         readme_content += f"""## 1. Bing Wallpaper (`bing.jpg`)
@@ -206,6 +260,7 @@ def fetch_all_wallpapers():
 
     with open(os.path.join(os.getcwd(), "README.md"), "w", encoding="utf-8") as f:
         f.write(readme_content)
+
 
 if __name__ == "__main__":
     fetch_all_wallpapers()
