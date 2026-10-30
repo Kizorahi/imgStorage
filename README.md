@@ -2,36 +2,36 @@
 
 ## 1. Bing Wallpaper (`bing.jpg`)
 ![Bing](images/bing.jpg)
-* **Заголовок:** Wo Nebel auf Jahrtausende trifft
-* **Описание:** Stehende Steine in Avebury, Wiltshire, England (© George W Johnson/Getty Images)
-* **Дата:** 29 October 2026
+* **Заголовок:** Zeit für Höhenflüge
+* **Описание:** Kanadakraniche, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)
+* **Дата:** 30 October 2026
 
 ---
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** A single dried maple leaf resting on a smooth white surface with a metal trim
-* **Дата:** 29 October 2026
-* **Автор:** [Yuri Krupenin](https://unsplash.com/@cubeofwood)
+* **Описание:** A person standing by a white van parked on a gravel overlook with mountain peaks
+* **Дата:** 30 October 2026
+* **Автор:** [Enfocus Collective](https://unsplash.com/@enfocuscollective)
 
 ---
 ## 3. Wallhaven (`wallhaven.jpg`)
 ![Wallhaven](images/wallhaven.jpg)
-* **Заголовок:** [Wallhaven Wallpaper #lyrqy2](https://wallhaven.cc/w/lyrqy2)
+* **Заголовок:** [Wallhaven Wallpaper #k8r9j1](https://wallhaven.cc/w/k8r9j1)
 * **Разрешение:** 3840x2160
-* **Дата:** 29 October 2026
+* **Дата:** 30 October 2026
 
 ---
 ## 4. Picsum (`picsum.jpg`)
 ![Picsum](images/picsum.jpg)
 * **Заголовок:** Picsum Random Photo
-* **Источник:** [https://fastly.picsum.photos/id/797/1920/1080.jpg?hmac=CnLXhxlKuyuJVfTD7JL8XV2pbhNeE_MaJaBNUzo-Y6M](https://fastly.picsum.photos/id/797/1920/1080.jpg?hmac=CnLXhxlKuyuJVfTD7JL8XV2pbhNeE_MaJaBNUzo-Y6M)
-* **Дата:** 29 October 2026
+* **Источник:** [https://fastly.picsum.photos/id/77/1920/1080.jpg?hmac=bhSvsik8IaP9zdkPO-1azpAj1L8DFGhwQDeXAeNvDzA](https://fastly.picsum.photos/id/77/1920/1080.jpg?hmac=bhSvsik8IaP9zdkPO-1azpAj1L8DFGhwQDeXAeNvDzA)
+* **Дата:** 30 October 2026
 
 ---
 ## 5. Pixabay (`pixabay.jpg`)
 ![Pixabay](images/pixabay.jpg)
-* **Заголовок:** Sunset, dusk, lake, wallpaper 4k, mountains, nature, full hd wallpaper, water, clouds, desktop backgrounds, 4k wallpaper, cool backgrounds, background, free background, 4k wallpaper 1920x1080, hd wallpaper, heaven, wallpaper hd, windows wallpaper, beautiful wallpaper, reflection, laptop wallpaper, mac wallpaper, evening atmosphere, chiemsee, free wallpaper, upper bavaria
-* **Разрешение:** 5932x3337
-* **Источник:** [https://pixabay.com/photos/sunset-dusk-lake-mountains-water-8516662/](https://pixabay.com/photos/sunset-dusk-lake-mountains-water-8516662/)
-* **Автор:** [ChiemSeherin](https://pixabay.com/photos/sunset-dusk-lake-mountains-water-8516662/)
-* **Дата:** 29 October 2026
+* **Заголовок:** Seagull, bird, beautiful wallpaper, animal, session, sea birds, mac wallpaper, fauna, beak, laptop wallpaper, cool backgrounds, feathers, plumage, hd wallpaper, wallpaper hd, wallpaper 4k, free background, sea, free wallpaper, avian, desktop backgrounds, 4k wallpaper, beautiful nature, nature, wallpaper, desktop picture, full hd wallpaper, 4k wallpaper 1920x1080, hintergrundsbild, windows wallpaper, nature background, nature wallpaper, yk
+* **Разрешение:** 7952x4472
+* **Источник:** [https://pixabay.com/photos/seagull-bird-animal-session-9135942/](https://pixabay.com/photos/seagull-bird-animal-session-9135942/)
+* **Автор:** [ykaiavu](https://pixabay.com/photos/seagull-bird-animal-session-9135942/)
+* **Дата:** 30 October 2026
