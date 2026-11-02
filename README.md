@@ -2,36 +2,36 @@
 
 ## 1. Bing Wallpaper (`bing.jpg`)
 ![Bing](images/bing.jpg)
-* **Заголовок:** Wälder im Nebel
-* **Описание:** Schwarzwald, Baden-Württemberg (© Britus/Getty Images)
-* **Дата:** 01 November 2026
+* **Заголовок:** Eine Zukunft, geprägt vom Eis
+* **Описание:** Eisbär mit Jungen, Hudson Bay, Manitoba, Kanada (© Danita Delimont/Adobe Stock)
+* **Дата:** 02 November 2026
 
 ---
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** Red sandstone buttes and towering rock spires in monument valley under a warm orange sky
-* **Дата:** 01 November 2026
-* **Автор:** [mana5280](https://unsplash.com/@mana5280)
+* **Описание:** A 3d render of a white sports car hovering above a wet parking garage floor
+* **Дата:** 02 November 2026
+* **Автор:** [Pebri Ramadhan Mas](https://unsplash.com/@pebri_ramadhan_mas)
 
 ---
 ## 3. Wallhaven (`wallhaven.jpg`)
 ![Wallhaven](images/wallhaven.jpg)
-* **Заголовок:** [Wallhaven Wallpaper #jer5qm](https://wallhaven.cc/w/jer5qm)
-* **Разрешение:** 5472x3648
-* **Дата:** 01 November 2026
+* **Заголовок:** [Wallhaven Wallpaper #lyr3qy](https://wallhaven.cc/w/lyr3qy)
+* **Разрешение:** 2100x1400
+* **Дата:** 02 November 2026
 
 ---
 ## 4. Picsum (`picsum.jpg`)
 ![Picsum](images/picsum.jpg)
 * **Заголовок:** Picsum Random Photo
-* **Источник:** [https://fastly.picsum.photos/id/1079/1920/1080.jpg?hmac=u7cXGc7t2WInN2mOi-PaCB9BsJtZrIQzVBRiAGAMFzc](https://fastly.picsum.photos/id/1079/1920/1080.jpg?hmac=u7cXGc7t2WInN2mOi-PaCB9BsJtZrIQzVBRiAGAMFzc)
-* **Дата:** 01 November 2026
+* **Источник:** [https://fastly.picsum.photos/id/970/1920/1080.jpg?hmac=5X-UTBjjQC0_-4tTCXuYz2Ke0LedVWkpWzLGD9NabT0](https://fastly.picsum.photos/id/970/1920/1080.jpg?hmac=5X-UTBjjQC0_-4tTCXuYz2Ke0LedVWkpWzLGD9NabT0)
+* **Дата:** 02 November 2026
 
 ---
 ## 5. Pixabay (`pixabay.jpg`)
 ![Pixabay](images/pixabay.jpg)
-* **Заголовок:** Goosander, goosander chicks, free background, cool backgrounds, wallpaper 4k, mac wallpaper, waterfowl, ducks, hd wallpaper, nature, group, chick, goslings, wildlife, pond, wallpaper hd, beautiful wallpaper, 4k wallpaper 1920x1080, full hd wallpaper, water, 4k wallpaper, windows wallpaper, reflection, background, background image, free wallpaper, laptop wallpaper, desktop backgrounds
-* **Разрешение:** 3815x2146
-* **Источник:** [https://pixabay.com/photos/goosander-goosander-chicks-waterfowl-8767742/](https://pixabay.com/photos/goosander-goosander-chicks-waterfowl-8767742/)
-* **Автор:** [ChiemSeherin](https://pixabay.com/photos/goosander-goosander-chicks-waterfowl-8767742/)
-* **Дата:** 01 November 2026
+* **Заголовок:** Background, wallpaper 4k, bokeh, rain, light, laptop wallpaper, blur, nature, drops, water, free background, night lights, drop, drops of water, nature wallpaper, heat, macro, mac wallpaper, full hd wallpaper, lights, texture, nature background, beautiful nature, wallpaper, windows wallpaper, desktop backgrounds, zoom background, 4k wallpaper 1920x1080, brown background, brown water, wallpaper hd, brown rain, cool backgrounds, hd wallpaper, blurred background, brown light, brown texture, brown night, beautiful wallpaper, free wallpaper, brown zoom, 4k wallpaper, brown wallpaper, brown bokeh, brown lights
+* **Разрешение:** 3840x2160
+* **Источник:** [https://pixabay.com/photos/background-bokeh-rain-light-blur-3127102/](https://pixabay.com/photos/background-bokeh-rain-light-blur-3127102/)
+* **Автор:** [Gam-Ol](https://pixabay.com/photos/background-bokeh-rain-light-blur-3127102/)
+* **Дата:** 02 November 2026
