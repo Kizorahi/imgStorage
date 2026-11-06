@@ -2,36 +2,36 @@
 
 ## 1. Bing Wallpaper (`bing.jpg`)
 ![Bing](images/bing.jpg)
-* **Заголовок:** Ein Schritt näher am Gipfel
-* **Описание:** Holzsteg an einer Steinmauer, Black Crag, Lake District, England (© Alex Treadway/Getty Images)
-* **Дата:** 05 November 2026
+* **Заголовок:** Ein grüner Tunnel durch Maui
+* **Описание:** Bambuswald, Pīpīwai Trail, Haleakalā-Nationalpark, Maui, Hawaii, USA (© MNStudio/Getty Images)
+* **Дата:** 06 November 2026
 
 ---
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** Close-up of a male mandarin duck with vibrant orange, green, and blue plumage
-* **Дата:** 05 November 2026
-* **Автор:** [Matsvei Liatkouski](https://unsplash.com/@matt_liatkouski)
+* **Описание:** A dense cityscape under a warm golden sky with long shadows and distant mountains
+* **Дата:** 06 November 2026
+* **Автор:** [Agnieszka Stankiewicz](https://unsplash.com/@dubai_love_story)
 
 ---
 ## 3. Wallhaven (`wallhaven.jpg`)
 ![Wallhaven](images/wallhaven.jpg)
-* **Заголовок:** [Wallhaven Wallpaper #gwvple](https://wallhaven.cc/w/gwvple)
-* **Разрешение:** 3840x2400
-* **Дата:** 05 November 2026
+* **Заголовок:** [Wallhaven Wallpaper #d8285l](https://wallhaven.cc/w/d8285l)
+* **Разрешение:** 5120x1440
+* **Дата:** 06 November 2026
 
 ---
 ## 4. Picsum (`picsum.jpg`)
 ![Picsum](images/picsum.jpg)
 * **Заголовок:** Picsum Random Photo
-* **Источник:** [https://fastly.picsum.photos/id/254/1920/1080.jpg?hmac=QAkC8LdfZ0ylXKy5Z4-za1A7iock_D_cgjarL-SR9Nw](https://fastly.picsum.photos/id/254/1920/1080.jpg?hmac=QAkC8LdfZ0ylXKy5Z4-za1A7iock_D_cgjarL-SR9Nw)
-* **Дата:** 05 November 2026
+* **Источник:** [https://fastly.picsum.photos/id/518/1920/1080.jpg?hmac=yW2qvv7jVIo8fbpROaX6kzcR0ZBwogUgl0xsDRJWabA](https://fastly.picsum.photos/id/518/1920/1080.jpg?hmac=yW2qvv7jVIo8fbpROaX6kzcR0ZBwogUgl0xsDRJWabA)
+* **Дата:** 06 November 2026
 
 ---
 ## 5. Pixabay (`pixabay.jpg`)
 ![Pixabay](images/pixabay.jpg)
-* **Заголовок:** Monkey, free background, 4k wallpaper, brown, primate, fauna, free wallpaper, wallpaper hd, mammal, laptop wallpaper, portrait, wallpaper 4k, cool backgrounds, hd wallpaper, mac wallpaper, look, 4k wallpaper 1920x1080, beautiful wallpaper, desktop backgrounds, wallpaper, desktop picture, hintergrundsbild, full hd wallpaper, windows wallpaper, yk
-* **Разрешение:** 7374x4472
-* **Источник:** [https://pixabay.com/photos/monkey-brown-primate-fauna-mammal-9604530/](https://pixabay.com/photos/monkey-brown-primate-fauna-mammal-9604530/)
-* **Автор:** [ykaiavu](https://pixabay.com/photos/monkey-brown-primate-fauna-mammal-9604530/)
-* **Дата:** 05 November 2026
+* **Заголовок:** Cherry blossoms, wallpaper 4k, cherry trees, hd wallpaper, free wallpaper, 4k wallpaper 1920x1080, sakura, full hd wallpaper, mountains, free background, scenic, spring, floral background, beautiful wallpaper, wallpaper hd, blossom, bloom, windows wallpaper, landscape, upper bavaria, cool backgrounds, background, mac wallpaper, desktop backgrounds, nature, 4k wallpaper, berchtesgaden, laptop wallpaper, natur, oberbayern, alpen, berge, bäume
+* **Разрешение:** 5982x3365
+* **Источник:** [https://pixabay.com/photos/cherry-blossoms-cherry-trees-sakura-8708966/](https://pixabay.com/photos/cherry-blossoms-cherry-trees-sakura-8708966/)
+* **Автор:** [ChiemSeherin](https://pixabay.com/photos/cherry-blossoms-cherry-trees-sakura-8708966/)
+* **Дата:** 06 November 2026
