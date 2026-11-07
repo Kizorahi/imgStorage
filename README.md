@@ -2,36 +2,36 @@
 
 ## 1. Bing Wallpaper (`bing.jpg`)
 ![Bing](images/bing.jpg)
-* **Заголовок:** Ein grüner Tunnel durch Maui
-* **Описание:** Bambuswald, Pīpīwai Trail, Haleakalā-Nationalpark, Maui, Hawaii, USA (© MNStudio/Getty Images)
-* **Дата:** 06 November 2026
+* **Заголовок:** Der zurückgekehrte Riese
+* **Описание:** Ein Bison in der Grassteppe des Theodore-Roosevelt-Nationalparks, Nord-Dakota, USA (© Tandem Stock/Adobe Stock)
+* **Дата:** 07 November 2026
 
 ---
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** A dense cityscape under a warm golden sky with long shadows and distant mountains
-* **Дата:** 06 November 2026
-* **Автор:** [Agnieszka Stankiewicz](https://unsplash.com/@dubai_love_story)
+* **Описание:** One world trade center against a dark sky in new york city
+* **Дата:** 07 November 2026
+* **Автор:** [Piergiovanni Di Blasi](https://unsplash.com/@piergio_)
 
 ---
 ## 3. Wallhaven (`wallhaven.jpg`)
 ![Wallhaven](images/wallhaven.jpg)
-* **Заголовок:** [Wallhaven Wallpaper #d8285l](https://wallhaven.cc/w/d8285l)
-* **Разрешение:** 5120x1440
-* **Дата:** 06 November 2026
+* **Заголовок:** [Wallhaven Wallpaper #d828o3](https://wallhaven.cc/w/d828o3)
+* **Разрешение:** 3840x2160
+* **Дата:** 07 November 2026
 
 ---
 ## 4. Picsum (`picsum.jpg`)
 ![Picsum](images/picsum.jpg)
 * **Заголовок:** Picsum Random Photo
-* **Источник:** [https://fastly.picsum.photos/id/518/1920/1080.jpg?hmac=yW2qvv7jVIo8fbpROaX6kzcR0ZBwogUgl0xsDRJWabA](https://fastly.picsum.photos/id/518/1920/1080.jpg?hmac=yW2qvv7jVIo8fbpROaX6kzcR0ZBwogUgl0xsDRJWabA)
-* **Дата:** 06 November 2026
+* **Источник:** [https://fastly.picsum.photos/id/889/1920/1080.jpg?hmac=hlWtbsYfHT7Qm6XhQ6Q8BXwTCOCFX6hoFxNz5s7nHEY](https://fastly.picsum.photos/id/889/1920/1080.jpg?hmac=hlWtbsYfHT7Qm6XhQ6Q8BXwTCOCFX6hoFxNz5s7nHEY)
+* **Дата:** 07 November 2026
 
 ---
 ## 5. Pixabay (`pixabay.jpg`)
 ![Pixabay](images/pixabay.jpg)
-* **Заголовок:** Cherry blossoms, wallpaper 4k, cherry trees, hd wallpaper, free wallpaper, 4k wallpaper 1920x1080, sakura, full hd wallpaper, mountains, free background, scenic, spring, floral background, beautiful wallpaper, wallpaper hd, blossom, bloom, windows wallpaper, landscape, upper bavaria, cool backgrounds, background, mac wallpaper, desktop backgrounds, nature, 4k wallpaper, berchtesgaden, laptop wallpaper, natur, oberbayern, alpen, berge, bäume
-* **Разрешение:** 5982x3365
-* **Источник:** [https://pixabay.com/photos/cherry-blossoms-cherry-trees-sakura-8708966/](https://pixabay.com/photos/cherry-blossoms-cherry-trees-sakura-8708966/)
-* **Автор:** [ChiemSeherin](https://pixabay.com/photos/cherry-blossoms-cherry-trees-sakura-8708966/)
-* **Дата:** 06 November 2026
+* **Заголовок:** Lioness, look, windows wallpaper, hd wallpaper, tongue, portrait, wallpaper hd, full hd wallpaper, nature wallpaper, lion, cool backgrounds, 4k wallpaper, animal, wildcat, canine, free wallpaper, hunter, nature background, mac wallpaper, beautiful wallpaper, predator, free background, laptop wallpaper, fauna, mammal, wallpaper 4k, nature, beautiful nature, desktop backgrounds, wallpaper, desktop picture, hintergrundsbild, 4k wallpaper 1920x1080, yk
+* **Разрешение:** 7952x4472
+* **Источник:** [https://pixabay.com/photos/lioness-look-tongue-portrait-lion-9614622/](https://pixabay.com/photos/lioness-look-tongue-portrait-lion-9614622/)
+* **Автор:** [ykaiavu](https://pixabay.com/photos/lioness-look-tongue-portrait-lion-9614622/)
+* **Дата:** 07 November 2026
