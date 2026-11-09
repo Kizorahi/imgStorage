@@ -2,36 +2,36 @@
 
 ## 1. Bing Wallpaper (`bing.jpg`)
 ![Bing](images/bing.jpg)
-* **Заголовок:** Ein strahlendes Fest
-* **Описание:** Laternen für Diwali, Mumbai, Maharashtra, Indien (© Dinodia Photo/Getty Images)
-* **Дата:** 08 November 2026
+* **Заголовок:** Die Nacht, die Deutschland veränderte
+* **Описание:** Schüler spähen durch einen Spalt in einem noch erhaltenen Abschnitt der Berliner Mauer (© Sean Gallup/Getty Images)
+* **Дата:** 09 November 2026
 
 ---
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** The number 2026 written in glowing golden sparkler light against a dark background
-* **Дата:** 08 November 2026
-* **Автор:** [Yang-Chen Lin](https://unsplash.com/@iolj)
+* **Описание:** A bright red and green neon sign reading "thank you" and chinese characters above people in a restaurant
+* **Дата:** 09 November 2026
+* **Автор:** [Annie Spratt](https://unsplash.com/@anniespratt)
 
 ---
 ## 3. Wallhaven (`wallhaven.jpg`)
 ![Wallhaven](images/wallhaven.jpg)
-* **Заголовок:** [Wallhaven Wallpaper #6l7lrq](https://wallhaven.cc/w/6l7lrq)
-* **Разрешение:** 1059x1467
-* **Дата:** 08 November 2026
+* **Заголовок:** [Wallhaven Wallpaper #k8rz8q](https://wallhaven.cc/w/k8rz8q)
+* **Разрешение:** 3840x2160
+* **Дата:** 09 November 2026
 
 ---
 ## 4. Picsum (`picsum.jpg`)
 ![Picsum](images/picsum.jpg)
 * **Заголовок:** Picsum Random Photo
-* **Источник:** [https://fastly.picsum.photos/id/858/1920/1080.jpg?hmac=XxpcKOJURSTxqnL4ki5oEWI-RRvjXqkG6ALBGJmZZ30](https://fastly.picsum.photos/id/858/1920/1080.jpg?hmac=XxpcKOJURSTxqnL4ki5oEWI-RRvjXqkG6ALBGJmZZ30)
-* **Дата:** 08 November 2026
+* **Источник:** [https://fastly.picsum.photos/id/304/1920/1080.jpg?hmac=UzCQxA0TUIFAJQrUslzw-8Edf3CCNHw0jbj4oX9K12M](https://fastly.picsum.photos/id/304/1920/1080.jpg?hmac=UzCQxA0TUIFAJQrUslzw-8Edf3CCNHw0jbj4oX9K12M)
+* **Дата:** 09 November 2026
 
 ---
 ## 5. Pixabay (`pixabay.jpg`)
 ![Pixabay](images/pixabay.jpg)
-* **Заголовок:** Stones, hd wallpaper, cool backgrounds, laptop wallpaper, free background, wallpaper hd, mac wallpaper, rocks, desktop backgrounds, wallpaper 4k, background, beautiful wallpaper, pattern, free wallpaper, full hd wallpaper, windows wallpaper, 4k wallpaper 1920x1080, structure, texture, 4k wallpaper, wallpaper
-* **Разрешение:** 5456x3064
-* **Источник:** [https://pixabay.com/photos/stones-rocks-background-pattern-3444870/](https://pixabay.com/photos/stones-rocks-background-pattern-3444870/)
-* **Автор:** [scholty1970](https://pixabay.com/photos/stones-rocks-background-pattern-3444870/)
-* **Дата:** 08 November 2026
+* **Заголовок:** Pearl moth, desktop backgrounds, free wallpaper, butterfly, 4k wallpaper 1920x1080, full hd wallpaper, nature, mac wallpaper, insect, pollination, beautiful nature, hd wallpaper, beautiful wallpaper, 4k wallpaper, nature background, cool backgrounds, wing, macro, nearby, free background, laptop wallpaper, wallpaper hd, wallpaper 4k, nature wallpaper, tap, background, windows wallpaper, wallpaper
+* **Разрешение:** 3000x1807
+* **Источник:** [https://pixabay.com/photos/pearl-moth-butterfly-nature-insect-9701348/](https://pixabay.com/photos/pearl-moth-butterfly-nature-insect-9701348/)
+* **Автор:** [terbe_rezso](https://pixabay.com/photos/pearl-moth-butterfly-nature-insect-9701348/)
+* **Дата:** 09 November 2026
