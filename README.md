@@ -9,22 +9,22 @@
 ---
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** Close-up of a male mandarin duck with vibrant orange, green, and blue plumage
+* **Описание:** A window looking out onto autumn trees with orange and green leaves
 * **Дата:** 12 November 2026
-* **Автор:** [Matsvei Liatkouski](https://unsplash.com/@matt_liatkouski)
+* **Автор:** [Clay Banks](https://unsplash.com/@claybanks)
 
 ---
 ## 3. Wallhaven (`wallhaven.jpg`)
 ![Wallhaven](images/wallhaven.jpg)
-* **Заголовок:** [Wallhaven Wallpaper #k8r1q1](https://wallhaven.cc/w/k8r1q1)
-* **Разрешение:** 4355x2449
+* **Заголовок:** [Wallhaven Wallpaper #w5w6zr](https://wallhaven.cc/w/w5w6zr)
+* **Разрешение:** 7326x4884
 * **Дата:** 12 November 2026
 
 ---
 ## 5. Pixabay (`pixabay.jpg`)
 ![Pixabay](images/pixabay.jpg)
-* **Заголовок:** Shelves, carpet, geometric pattern, room, light, furniture, modern, be, interior, sofa, chair, architecture, design, plants, floor, house, nature, window
-* **Разрешение:** 3840x2160
-* **Источник:** [https://pixabay.com/photos/shelves-carpet-geometric-pattern-4032134/](https://pixabay.com/photos/shelves-carpet-geometric-pattern-4032134/)
-* **Автор:** [5460160](https://pixabay.com/photos/shelves-carpet-geometric-pattern-4032134/)
+* **Заголовок:** Thunderstorm, lightning, hd wallpaper, sky background, wallpaper hd, mac wallpaper, windows wallpaper, beautiful wallpaper, nature wallpaper, storm, beautiful nature, night, weather, nature background, sky, 4k wallpaper 1920x1080, night sky, desktop backgrounds, 4k wallpaper, clouds, full hd wallpaper, wallpaper 4k, nature, storm clouds, cool backgrounds, free wallpaper, free background, laptop wallpaper, wallpaper, background
+* **Разрешение:** 6000x3375
+* **Источник:** [https://pixabay.com/photos/thunderstorm-lightning-storm-night-3441687/](https://pixabay.com/photos/thunderstorm-lightning-storm-night-3441687/)
+* **Автор:** [Felix-Mittermeier](https://pixabay.com/photos/thunderstorm-lightning-storm-night-3441687/)
 * **Дата:** 12 November 2026
