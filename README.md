@@ -7,24 +7,33 @@
 * **Дата:** 12 November 2026
 
 ---
+
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** A window looking out onto autumn trees with orange and green leaves
+* **Описание:** The golden gate bridge in san francisco seen from a rocky beach at golden hour
 * **Дата:** 12 November 2026
-* **Автор:** [Clay Banks](https://unsplash.com/@claybanks)
+* **Автор:** [Kellen Riggin](https://unsplash.com/@kalaniparker)
 
 ---
+
 ## 3. Wallhaven (`wallhaven.jpg`)
 ![Wallhaven](images/wallhaven.jpg)
-* **Заголовок:** [Wallhaven Wallpaper #w5w6zr](https://wallhaven.cc/w/w5w6zr)
-* **Разрешение:** 7326x4884
+* **Заголовок:** [Wallhaven Wallpaper #9oe23k](https://wallhaven.cc/w/9oe23k)
+* **Разрешение:** 2560x1440
 * **Дата:** 12 November 2026
 
 ---
+
+## 4. Picsum (`picsum.jpg`)
+HTTPSConnectionPool(host='picsum.photos', port=443): Read timed out. (read timeout=30)
+
+---
+
 ## 5. Pixabay (`pixabay.jpg`)
 ![Pixabay](images/pixabay.jpg)
-* **Заголовок:** Thunderstorm, lightning, hd wallpaper, sky background, wallpaper hd, mac wallpaper, windows wallpaper, beautiful wallpaper, nature wallpaper, storm, beautiful nature, night, weather, nature background, sky, 4k wallpaper 1920x1080, night sky, desktop backgrounds, 4k wallpaper, clouds, full hd wallpaper, wallpaper 4k, nature, storm clouds, cool backgrounds, free wallpaper, free background, laptop wallpaper, wallpaper, background
-* **Разрешение:** 6000x3375
-* **Источник:** [https://pixabay.com/photos/thunderstorm-lightning-storm-night-3441687/](https://pixabay.com/photos/thunderstorm-lightning-storm-night-3441687/)
-* **Автор:** [Felix-Mittermeier](https://pixabay.com/photos/thunderstorm-lightning-storm-night-3441687/)
+* **Заголовок:** Landscape, winter, snow, sunset, forest, frozen, silence, reflection, blue, orange, mist, chilled, idyllic, morning, peace, nature, calm, north, beauty
+* **Разрешение:** 5000x2985
+* **Источник:** [https://pixabay.com/photos/landscape-winter-snow-sunset-10277364/](https://pixabay.com/photos/landscape-winter-snow-sunset-10277364/)
+* **Автор:** [Elisabetta_Miele](https://pixabay.com/photos/landscape-winter-snow-sunset-10277364/)
 * **Дата:** 12 November 2026
+
