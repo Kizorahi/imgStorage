@@ -2,25 +2,25 @@
 
 ## 1. Bing Wallpaper (`bing.jpg`)
 ![Bing](images/bing.jpg)
-* **Заголовок:** Hoch, höher, Hongkong
-* **Описание:** Victoria Harbour, Hongkong, China (© Juan Romero/Cavan Images)
-* **Дата:** 14 November 2026
+* **Заголовок:** Frostige Blätter
+* **Описание:** Gefrorene Azalee mit roten Blättern (© avoferten/Shutterstock)
+* **Дата:** 15 November 2026
 
 ---
 
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** Modern building facade with vertical louvers and a balcony against a pale sky
-* **Дата:** 14 November 2026
-* **Автор:** [Takashi Sakamoto](https://unsplash.com/@bookslope)
+* **Описание:** An open book with pages turning in the dim light against a dark background
+* **Дата:** 15 November 2026
+* **Автор:** [Aaron Burden](https://unsplash.com/@aaronburden)
 
 ---
 
 ## 3. Wallhaven (`wallhaven.jpg`)
 ![Wallhaven](images/wallhaven.jpg)
-* **Заголовок:** [Wallhaven Wallpaper #rqwoe7](https://wallhaven.cc/w/rqwoe7)
-* **Разрешение:** 3840x2160
-* **Дата:** 14 November 2026
+* **Заголовок:** [Wallhaven Wallpaper #6l7wkl](https://wallhaven.cc/w/6l7wkl)
+* **Разрешение:** 1920x1080
+* **Дата:** 15 November 2026
 
 ---
 
@@ -31,9 +31,9 @@ HTTPSConnectionPool(host='picsum.photos', port=443): Read timed out. (read timeo
 
 ## 5. Pixabay (`pixabay.jpg`)
 ![Pixabay](images/pixabay.jpg)
-* **Заголовок:** Abstract art, purple flowers, gold accents, abstract flowers, purple color, fluid art, artistic texture, modern art, luxury design, artistic background, decorative art, ink art, flower details, golden colors, sea waves, creative design, intense colors, golden effect, rich look, art for interior
-* **Разрешение:** 3000x1681
-* **Источник:** [https://pixabay.com/photos/abstract-art-purple-flowers-10543933/](https://pixabay.com/photos/abstract-art-purple-flowers-10543933/)
-* **Автор:** [KikiCupcake](https://pixabay.com/photos/abstract-art-purple-flowers-10543933/)
-* **Дата:** 14 November 2026
+* **Заголовок:** Doors, choices, choose, open, decision, opportunity, choosing, career, option, entrance, challenge, way, decide, strategy, doorway, select, alternative, future, freedom, life, entering, finding, chance, exit, solution, confusion, labyrinth, complexity, search, goal, confused, puzzle, risk, courage, maze, problem, hard, game, wise, complex, white, creativity, wayout, elegant, gray life, gray future, gray gaming, gray door, gray game, gray games, gray puzzle, gray creative, doors, choose, decision, opportunity, career, career, challenge, strategy, future, future, confusion, confused, puzzle, puzzle, risk, risk, maze, maze, maze, maze, maze
+* **Разрешение:** 3000x1600
+* **Источник:** [https://pixabay.com/photos/doors-choices-choose-open-decision-1767559/](https://pixabay.com/photos/doors-choices-choose-open-decision-1767559/)
+* **Автор:** [qimono](https://pixabay.com/photos/doors-choices-choose-open-decision-1767559/)
+* **Дата:** 15 November 2026
 
