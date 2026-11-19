@@ -2,41 +2,41 @@
 
 ## 1. Bing Wallpaper (`bing.jpg`)
 ![Bing](images/bing.jpg)
-* **Заголовок:** Jäger der Nacht
-* **Описание:** Ein Schleiereulenpaar (© Zahoor Salmi/Getty Images)
-* **Дата:** 18 November 2026
+* **Заголовок:** Wo Ideen Gestalt annehmen
+* **Описание:** Die Skulptur „Body of Knowledge“ von Jaume Plensa an der Goethe-Universität in Frankfurt am Main (© Todamo/Shutterstock)
+* **Дата:** 19 November 2026
 
 ---
 
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** A modern building with a geometric facade and a patterned glass upper section
-* **Дата:** 18 November 2026
-* **Автор:** [Rowan Heuvel](https://unsplash.com/@insolitus)
+* **Описание:** The milky way galaxy stretching across a dark night sky filled with stars
+* **Дата:** 19 November 2026
+* **Автор:** [Alexandru-Bogdan Ghita](https://unsplash.com/@bogzilla)
 
 ---
 
 ## 3. Wallhaven (`wallhaven.jpg`)
 ![Wallhaven](images/wallhaven.jpg)
-* **Заголовок:** [Wallhaven Wallpaper #zp2d2w](https://wallhaven.cc/w/zp2d2w)
-* **Разрешение:** 8639x5759
-* **Дата:** 18 November 2026
+* **Заголовок:** [Wallhaven Wallpaper #gwvdj3](https://wallhaven.cc/w/gwvdj3)
+* **Разрешение:** 4096x2720
+* **Дата:** 19 November 2026
 
 ---
 
 ## 4. Picsum (`picsum.jpg`)
 ![Picsum](images/picsum.jpg)
 * **Заголовок:** Picsum Random Photo
-* **Источник:** [https://fastly.picsum.photos/id/800/1920/1080.jpg?hmac=sqMVscBqq6SVSCIIbFHXUoGmglbd3BWF0M1LHtToR3o](https://fastly.picsum.photos/id/800/1920/1080.jpg?hmac=sqMVscBqq6SVSCIIbFHXUoGmglbd3BWF0M1LHtToR3o)
-* **Дата:** 18 November 2026
+* **Источник:** [https://fastly.picsum.photos/id/657/1920/1080.jpg?hmac=dV43NJtfU6xvNf-JKj9YN4MGMgn3JrgdiOktQdS5vVM](https://fastly.picsum.photos/id/657/1920/1080.jpg?hmac=dV43NJtfU6xvNf-JKj9YN4MGMgn3JrgdiOktQdS5vVM)
+* **Дата:** 19 November 2026
 
 ---
 
 ## 5. Pixabay (`pixabay.jpg`)
 ![Pixabay](images/pixabay.jpg)
-* **Заголовок:** Bokeh, blur, blue, white, beautiful wallpaper, life, blurred background, cure, light, dark, soft, night, desktop backgrounds, background, wallpaper, elips, mac wallpaper, hd wallpaper, city, good, outside, wallpaper hd, free background, love, month, freedom, galaxy, hand, 4k wallpaper, hope, earth, happy, romantic, wedding, bokeh photography, lens, wallpaper 4k, bokeh lens, bokeh background, bokeh light, full hd wallpaper, 4k wallpaper 1920x1080, dark bokeh, blue background, blue love, blue city, blue happy, cool backgrounds, blue earth, free wallpaper, blue hope, blue light, blue life, blue wedding, windows wallpaper, blue galaxy, blue night, blue wallpaper, blue dark, blue photography, blue happiness, laptop wallpaper, blue bokeh, blue lights
-* **Разрешение:** 6000x3376
-* **Источник:** [https://pixabay.com/photos/bokeh-blur-blue-white-life-cure-1569531/](https://pixabay.com/photos/bokeh-blur-blue-white-life-cure-1569531/)
-* **Автор:** [edwinp99](https://pixabay.com/photos/bokeh-blur-blue-white-life-cure-1569531/)
-* **Дата:** 18 November 2026
+* **Заголовок:** Nature, forest, foliage, tree, nature background, windows wallpaper, leaf, background, green, plant, bright, natural, season, beautiful nature, summer, organic, environment, abstract, beauty, color, wood, leaves, design, floral, texture, nature wallpaper, lush, growth, 4k wallpaper, laptop wallpaper, wallpaper 4k, closeup, hd wallpaper, spring, landscape, free background, beautiful, autumn, light, botany, mac wallpaper, art, decoration, botanical, cool backgrounds, beautiful wallpaper, sun, free wallpaper, garden, colorful, wallpaper hd, freshness, wallpaper, macro, maple, full hd wallpaper, sunny, pattern, fall, 4k wallpaper 1920x1080, desktop backgrounds, ray, floral background, sunlight, graphic, branch
+* **Разрешение:** 5120x2880
+* **Источник:** [https://pixabay.com/photos/nature-forest-foliage-tree-leaf-1055091/](https://pixabay.com/photos/nature-forest-foliage-tree-leaf-1055091/)
+* **Автор:** [DigitalDesigner](https://pixabay.com/photos/nature-forest-foliage-tree-leaf-1055091/)
+* **Дата:** 19 November 2026
 
