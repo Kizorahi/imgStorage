@@ -2,41 +2,41 @@
 
 ## 1. Bing Wallpaper (`bing.jpg`)
 ![Bing](images/bing.jpg)
-* **Заголовок:** Wo Ideen Gestalt annehmen
-* **Описание:** Die Skulptur „Body of Knowledge“ von Jaume Plensa an der Goethe-Universität in Frankfurt am Main (© Todamo/Shutterstock)
-* **Дата:** 19 November 2026
+* **Заголовок:** Festmahl in den Fjorden
+* **Описание:** Tauchender Buckelwal (Megaptera novaeangliae) Kvaloya, Troms, Norwegen (© Espen Bergersen/Minden Pictures)
+* **Дата:** 20 November 2026
 
 ---
 
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** The milky way galaxy stretching across a dark night sky filled with stars
-* **Дата:** 19 November 2026
-* **Автор:** [Alexandru-Bogdan Ghita](https://unsplash.com/@bogzilla)
+* **Описание:** Stenciled text reading "each day i love you more" on a weathered wall with graffiti
+* **Дата:** 20 November 2026
+* **Автор:** [Aleksandr Artiushenko](https://unsplash.com/@artyshena)
 
 ---
 
 ## 3. Wallhaven (`wallhaven.jpg`)
 ![Wallhaven](images/wallhaven.jpg)
-* **Заголовок:** [Wallhaven Wallpaper #gwvdj3](https://wallhaven.cc/w/gwvdj3)
-* **Разрешение:** 4096x2720
-* **Дата:** 19 November 2026
+* **Заголовок:** [Wallhaven Wallpaper #qr5ogq](https://wallhaven.cc/w/qr5ogq)
+* **Разрешение:** 1920x1280
+* **Дата:** 20 November 2026
 
 ---
 
 ## 4. Picsum (`picsum.jpg`)
 ![Picsum](images/picsum.jpg)
 * **Заголовок:** Picsum Random Photo
-* **Источник:** [https://fastly.picsum.photos/id/657/1920/1080.jpg?hmac=dV43NJtfU6xvNf-JKj9YN4MGMgn3JrgdiOktQdS5vVM](https://fastly.picsum.photos/id/657/1920/1080.jpg?hmac=dV43NJtfU6xvNf-JKj9YN4MGMgn3JrgdiOktQdS5vVM)
-* **Дата:** 19 November 2026
+* **Источник:** [https://fastly.picsum.photos/id/1044/1920/1080.jpg?hmac=kSPUlqJNxkNBVA9sED-fo0WyAwW7gUXnOBKLwuM9EnI](https://fastly.picsum.photos/id/1044/1920/1080.jpg?hmac=kSPUlqJNxkNBVA9sED-fo0WyAwW7gUXnOBKLwuM9EnI)
+* **Дата:** 20 November 2026
 
 ---
 
 ## 5. Pixabay (`pixabay.jpg`)
 ![Pixabay](images/pixabay.jpg)
-* **Заголовок:** Nature, forest, foliage, tree, nature background, windows wallpaper, leaf, background, green, plant, bright, natural, season, beautiful nature, summer, organic, environment, abstract, beauty, color, wood, leaves, design, floral, texture, nature wallpaper, lush, growth, 4k wallpaper, laptop wallpaper, wallpaper 4k, closeup, hd wallpaper, spring, landscape, free background, beautiful, autumn, light, botany, mac wallpaper, art, decoration, botanical, cool backgrounds, beautiful wallpaper, sun, free wallpaper, garden, colorful, wallpaper hd, freshness, wallpaper, macro, maple, full hd wallpaper, sunny, pattern, fall, 4k wallpaper 1920x1080, desktop backgrounds, ray, floral background, sunlight, graphic, branch
-* **Разрешение:** 5120x2880
-* **Источник:** [https://pixabay.com/photos/nature-forest-foliage-tree-leaf-1055091/](https://pixabay.com/photos/nature-forest-foliage-tree-leaf-1055091/)
-* **Автор:** [DigitalDesigner](https://pixabay.com/photos/nature-forest-foliage-tree-leaf-1055091/)
-* **Дата:** 19 November 2026
+* **Заголовок:** Planet, earth, globe, space, world, continents, blue, light, science fiction, space wallpaper, black earth, black world, black light, black science, black wallpaper, black globe, black planet, black lights, earth, earth, earth, earth, earth
+* **Разрешение:** 3840x2160
+* **Источник:** [https://pixabay.com/photos/planet-earth-globe-space-world-1348079/](https://pixabay.com/photos/planet-earth-globe-space-world-1348079/)
+* **Автор:** [ColiN00B](https://pixabay.com/photos/planet-earth-globe-space-world-1348079/)
+* **Дата:** 20 November 2026
 
