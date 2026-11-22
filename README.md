@@ -2,41 +2,41 @@
 
 ## 1. Bing Wallpaper (`bing.jpg`)
 ![Bing](images/bing.jpg)
-* **Заголовок:** Ein Traum aus Terrakotta
-* **Описание:** Nizza, Provence-Alpes-Côte d'Azur, Frankreich (© Siripong Kaewla-iad/Getty Images)
-* **Дата:** 21 November 2026
+* **Заголовок:** Kapelle im Fels
+* **Описание:** Die Kapelle und Einsiedelei von Santa Justa in Kantabrien, Spanien (© Tramont_ana/Getty Images)
+* **Дата:** 22 November 2026
 
 ---
 
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** The number 2027 in textured light green on a solid purple background
-* **Дата:** 21 November 2026
-* **Автор:** [Esma Melike Sezer](https://unsplash.com/@melkszr)
+* **Описание:** A bright red neon sign depicting a revolver with a flower emerging from the barrel
+* **Дата:** 22 November 2026
+* **Автор:** [Jon Tyson](https://unsplash.com/@jontyson)
 
 ---
 
 ## 3. Wallhaven (`wallhaven.jpg`)
 ![Wallhaven](images/wallhaven.jpg)
-* **Заголовок:** [Wallhaven Wallpaper #jerdgp](https://wallhaven.cc/w/jerdgp)
-* **Разрешение:** 1920x1080
-* **Дата:** 21 November 2026
+* **Заголовок:** [Wallhaven Wallpaper #lyrgkq](https://wallhaven.cc/w/lyrgkq)
+* **Разрешение:** 7680x4320
+* **Дата:** 22 November 2026
 
 ---
 
 ## 4. Picsum (`picsum.jpg`)
 ![Picsum](images/picsum.jpg)
 * **Заголовок:** Picsum Random Photo
-* **Источник:** [https://fastly.picsum.photos/id/498/1920/1080.jpg?hmac=N0eMc4EqYBh8OCurmQWZ3-0-bcNAl1tH52jzOTXKFP0](https://fastly.picsum.photos/id/498/1920/1080.jpg?hmac=N0eMc4EqYBh8OCurmQWZ3-0-bcNAl1tH52jzOTXKFP0)
-* **Дата:** 21 November 2026
+* **Источник:** [https://fastly.picsum.photos/id/46/1920/1080.jpg?hmac=PKnmxepyy0ZbQgWkWmnZ9B24E3t9aYh6x_mijxdgn7M](https://fastly.picsum.photos/id/46/1920/1080.jpg?hmac=PKnmxepyy0ZbQgWkWmnZ9B24E3t9aYh6x_mijxdgn7M)
+* **Дата:** 22 November 2026
 
 ---
 
 ## 5. Pixabay (`pixabay.jpg`)
 ![Pixabay](images/pixabay.jpg)
-* **Заголовок:** Background, full hd wallpaper, canyon, abyss, trees, rock, wallpaper, mac wallpaper, desktop backgrounds, wallpaper 4k, wallpaper hd, fantasy, fantastic, free wallpaper, breathtaking, nature, silence, vacations, laptop wallpaper, to travel, rock landscape, windows wallpaper, beautiful wallpaper, lonliness, 4k wallpaper 1920x1080, lighting mood, emotion, hd wallpaper, photo manipulation, cool backgrounds, magic, mystical, 4k wallpaper, scary, mysterious, moss, free background, sunrise
-* **Разрешение:** 5627x3166
-* **Источник:** [https://pixabay.com/photos/background-canyon-abyss-trees-rock-4267049/](https://pixabay.com/photos/background-canyon-abyss-trees-rock-4267049/)
-* **Автор:** [Darkmoon_Art](https://pixabay.com/photos/background-canyon-abyss-trees-rock-4267049/)
-* **Дата:** 21 November 2026
+* **Заголовок:** River, wallpaper hd, cool backgrounds, laptop wallpaper, rainbow, full hd wallpaper, free background, free wallpaper, trees, sunset, 4k wallpaper, windows wallpaper, clouds, 4k wallpaper 1920x1080, water, mac wallpaper, hd wallpaper, nature wallpaper, nature, desktop backgrounds, beautiful wallpaper, wallpaper 4k, landscape, beautiful nature, nature background, wallpaper, geneva, switzerland, dardagny
+* **Разрешение:** 4032x2268
+* **Источник:** [https://pixabay.com/photos/river-rainbow-trees-sunset-clouds-5372892/](https://pixabay.com/photos/river-rainbow-trees-sunset-clouds-5372892/)
+* **Автор:** [ykaiavu](https://pixabay.com/photos/river-rainbow-trees-sunset-clouds-5372892/)
+* **Дата:** 22 November 2026
 
