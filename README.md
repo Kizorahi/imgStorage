@@ -2,41 +2,41 @@
 
 ## 1. Bing Wallpaper (`bing.jpg`)
 ![Bing](images/bing.jpg)
-* **Заголовок:** Kapelle im Fels
-* **Описание:** Die Kapelle und Einsiedelei von Santa Justa in Kantabrien, Spanien (© Tramont_ana/Getty Images)
-* **Дата:** 22 November 2026
+* **Заголовок:** Geometrie in der Natur
+* **Описание:** Farnspitzen (© Reza Saputra/Getty Images)
+* **Дата:** 23 November 2026
 
 ---
 
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** A bright red neon sign depicting a revolver with a flower emerging from the barrel
-* **Дата:** 22 November 2026
-* **Автор:** [Jon Tyson](https://unsplash.com/@jontyson)
+* **Описание:** A person with curly hair wearing a patterned scarf and grey trousers standing before a dark door
+* **Дата:** 23 November 2026
+* **Автор:** [Good Faces](https://unsplash.com/@goodfacesagency)
 
 ---
 
 ## 3. Wallhaven (`wallhaven.jpg`)
 ![Wallhaven](images/wallhaven.jpg)
-* **Заголовок:** [Wallhaven Wallpaper #lyrgkq](https://wallhaven.cc/w/lyrgkq)
-* **Разрешение:** 7680x4320
-* **Дата:** 22 November 2026
+* **Заголовок:** [Wallhaven Wallpaper #gwv1el](https://wallhaven.cc/w/gwv1el)
+* **Разрешение:** 3840x2160
+* **Дата:** 23 November 2026
 
 ---
 
 ## 4. Picsum (`picsum.jpg`)
 ![Picsum](images/picsum.jpg)
 * **Заголовок:** Picsum Random Photo
-* **Источник:** [https://fastly.picsum.photos/id/46/1920/1080.jpg?hmac=PKnmxepyy0ZbQgWkWmnZ9B24E3t9aYh6x_mijxdgn7M](https://fastly.picsum.photos/id/46/1920/1080.jpg?hmac=PKnmxepyy0ZbQgWkWmnZ9B24E3t9aYh6x_mijxdgn7M)
-* **Дата:** 22 November 2026
+* **Источник:** [https://fastly.picsum.photos/id/516/1920/1080.jpg?hmac=l0xKac6VuOlaLMoSVuU4qi4DWYUHujFZf7KFcRQ4ST0](https://fastly.picsum.photos/id/516/1920/1080.jpg?hmac=l0xKac6VuOlaLMoSVuU4qi4DWYUHujFZf7KFcRQ4ST0)
+* **Дата:** 23 November 2026
 
 ---
 
 ## 5. Pixabay (`pixabay.jpg`)
 ![Pixabay](images/pixabay.jpg)
-* **Заголовок:** River, wallpaper hd, cool backgrounds, laptop wallpaper, rainbow, full hd wallpaper, free background, free wallpaper, trees, sunset, 4k wallpaper, windows wallpaper, clouds, 4k wallpaper 1920x1080, water, mac wallpaper, hd wallpaper, nature wallpaper, nature, desktop backgrounds, beautiful wallpaper, wallpaper 4k, landscape, beautiful nature, nature background, wallpaper, geneva, switzerland, dardagny
-* **Разрешение:** 4032x2268
-* **Источник:** [https://pixabay.com/photos/river-rainbow-trees-sunset-clouds-5372892/](https://pixabay.com/photos/river-rainbow-trees-sunset-clouds-5372892/)
-* **Автор:** [ykaiavu](https://pixabay.com/photos/river-rainbow-trees-sunset-clouds-5372892/)
-* **Дата:** 22 November 2026
+* **Заголовок:** Geometric, triangle, wallpaper hd, hd wallpaper, windows wallpaper, wallpaper 4k, 4k wallpaper, pattern, graphic, geometry, desktop backgrounds, full hd wallpaper, cool backgrounds, tile, square, shape, mosaic, abstract, backdrop, mac wallpaper, decorative, design, laptop wallpaper, 4k wallpaper 1920x1080, modern, style, free background, retro, free wallpaper, cover, beautiful wallpaper, poster, banner, template, vintage, 80s, border, background, wallpaper
+* **Разрешение:** 6920x3893
+* **Источник:** [https://pixabay.com/photos/geometric-triangle-pattern-graphic-3045402/](https://pixabay.com/photos/geometric-triangle-pattern-graphic-3045402/)
+* **Автор:** [monicore](https://pixabay.com/photos/geometric-triangle-pattern-graphic-3045402/)
+* **Дата:** 23 November 2026
 
