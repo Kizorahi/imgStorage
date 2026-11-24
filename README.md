@@ -10,9 +10,9 @@
 
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** A spiral staircase viewed from below with a circular light fixture above
+* **Описание:** The san francisco skyline across the bay under a warm orange sky at golden hour
 * **Дата:** 24 November 2026
-* **Автор:** [Astrel Fisher](https://unsplash.com/@astrelfisher)
+* **Автор:** [Kellen Riggin](https://unsplash.com/@kalaniparker)
 
 ---
 
@@ -27,23 +27,23 @@
 ## 4. Picsum (`picsum.jpg`)
 ![Picsum](images/picsum.jpg)
 * **Заголовок:** Picsum Random Photo
-* **Источник:** [https://fastly.picsum.photos/id/371/1920/1080.jpg?hmac=QRB7vfwv9no2mGvVVs7KiB1TfcszJ7CVPRac2EWF-G8](https://fastly.picsum.photos/id/371/1920/1080.jpg?hmac=QRB7vfwv9no2mGvVVs7KiB1TfcszJ7CVPRac2EWF-G8)
+* **Источник:** [https://fastly.picsum.photos/id/110/1920/1080.jpg?hmac=iK7v9di6IQ0YMzcnkQ1aX7oXYb88N3QM017gbIJ4poM](https://fastly.picsum.photos/id/110/1920/1080.jpg?hmac=iK7v9di6IQ0YMzcnkQ1aX7oXYb88N3QM017gbIJ4poM)
 * **Дата:** 24 November 2026
 
 ---
 
 ## 5. Pixabay (`pixabay.jpg`)
 ![Pixabay](images/pixabay.jpg)
-* **Заголовок:** Thunderstorm, night sky, 4k wallpaper, wallpaper hd, windows wallpaper, nature background, mac wallpaper, beautiful nature, lightning, laptop wallpaper, wallpaper 4k, 4k wallpaper 1920x1080, desktop backgrounds, storm, beautiful wallpaper, sky background, free background, night, weather, hd wallpaper, free wallpaper, sky, nature wallpaper, clouds, cool backgrounds, storm clouds, full hd wallpaper, wallpaper, nature, background
-* **Разрешение:** 6000x3375
-* **Источник:** [https://pixabay.com/photos/thunderstorm-lightning-storm-night-3441687/](https://pixabay.com/photos/thunderstorm-lightning-storm-night-3441687/)
-* **Автор:** [Felix-Mittermeier](https://pixabay.com/photos/thunderstorm-lightning-storm-night-3441687/)
+* **Заголовок:** Flower, hd wallpaper, wallpaper hd, flower wallpaper, mac wallpaper, flower background, beautiful flowers, portulaca grandiflora, desktop backgrounds, laptop wallpaper, beautiful wallpaper, stamen, free wallpaper, 4k wallpaper, golden yellow, pollen, cool backgrounds, full hd wallpaper, 4k wallpaper 1920x1080, free background, wallpaper 4k, floral background, nature, windows wallpaper, wallpaper, china, jilin, jilin city
+* **Разрешение:** 4032x2268
+* **Источник:** [https://pixabay.com/photos/flower-portulaca-grandiflora-stamen-9082617/](https://pixabay.com/photos/flower-portulaca-grandiflora-stamen-9082617/)
+* **Автор:** [BR7749](https://pixabay.com/photos/flower-portulaca-grandiflora-stamen-9082617/)
 * **Дата:** 24 November 2026
 
 ## 6. Local Wallpaper (`local.jpg`)
 ![Local](images/local.jpg)
-* **Файл:** `50 - 9iHNkZR.png`
-* **Папка:** `test1`
+* **Файл:** `1 - lYcQsoI.png`
+* **Папка:** `test2`
 * **Дата:** 24 November 2026
 
 ---
