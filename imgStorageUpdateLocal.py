@@ -3,18 +3,17 @@ import random
 import datetime
 import shutil
 
-BASE_DIR = os.path.join(os.getcwd(), "images", "hello")
+BASE_DIR = os.path.join(os.getcwd(), "images", "K-on!")
 HISTORY_FILE = os.path.join(BASE_DIR, "history.txt")
-OUTPUT_IMAGE = os.path.join(os.getcwd(), "images", "local.jpg")
+OUTPUT_IMAGE = os.path.join(os.getcwd(), "images", "k-on.jpg")
 README_FILE = os.path.join(os.getcwd(), "README.md")
 
 RESERVE_LIMIT = 360
 
-SECTION_HEADER = "## 6. Local Wallpaper (`local.jpg`)\n"
+SECTION_HEADER = "## 6. K-on! (`k-on.jpg`)\n"
 
 
 def collect_images():
-    """images/hello/*."""
     exts = {".jpg", ".jpeg", ".png", ".webp", ".bmp"}
     found = []
     if not os.path.isdir(BASE_DIR):
@@ -48,7 +47,7 @@ def save_history(history):
 def pick_unique_image():
     all_images = collect_images()
     if not all_images:
-        return None, "no images found in images/hello/*"
+        return None, "no images found*"
 
     history = load_history()
 
@@ -85,7 +84,7 @@ def build_section(rel_path, error=None):
         fname = os.path.basename(rel_path)
         return (
             SECTION_HEADER
-            + f"""![Local](images/local.jpg)
+            + f"""![Local](images/k-on.jpg)
 * **Файл:** `{fname}`
 * **Папка:** `{folder}`
 * **Дата:** {today}

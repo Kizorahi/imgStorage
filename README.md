@@ -48,3 +48,11 @@
 
 ---
 
+## 6. K-on! (`k-on.jpg`)
+![Local](images/k-on.jpg)
+* **Файл:** `240.jpg`
+* **Папка:** `kon-illustration-archives-jpg`
+* **Дата:** 24 November 2026
+
+---
+
