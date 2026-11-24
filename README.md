@@ -10,9 +10,9 @@
 
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** Two zebras interacting in tall golden grass during the golden hour
+* **Описание:** Tree leaf shadows cast on a smooth light grey stone wall
 * **Дата:** 24 November 2026
-* **Автор:** [Bob Brewer](https://unsplash.com/@brewbottle)
+* **Автор:** [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski)
 
 ---
 
@@ -27,22 +27,22 @@
 ## 4. Picsum (`picsum.jpg`)
 ![Picsum](images/picsum.jpg)
 * **Заголовок:** Picsum Random Photo
-* **Источник:** [https://fastly.picsum.photos/id/794/1920/1080.jpg?hmac=QZ-xMDLnD_L_iRUzS6oNLiYNtK_2yyrVC74Xp2u9cKo](https://fastly.picsum.photos/id/794/1920/1080.jpg?hmac=QZ-xMDLnD_L_iRUzS6oNLiYNtK_2yyrVC74Xp2u9cKo)
+* **Источник:** [https://fastly.picsum.photos/id/598/1920/1080.jpg?hmac=suFILAFoMR4-TNOzsoCpye3cIzq5Ba3VF6HeJJ1vCHU](https://fastly.picsum.photos/id/598/1920/1080.jpg?hmac=suFILAFoMR4-TNOzsoCpye3cIzq5Ba3VF6HeJJ1vCHU)
 * **Дата:** 24 November 2026
 
 ---
 
 ## 5. Pixabay (`pixabay.jpg`)
 ![Pixabay](images/pixabay.jpg)
-* **Заголовок:** Colors, desktop backgrounds, wallpaper hd, laptop wallpaper, bokeh, wallpaper 4k, lights, full hd wallpaper, abstract, cool backgrounds, free background, hd wallpaper, background, beautiful wallpaper, 4k wallpaper 1920x1080, free wallpaper, 4k wallpaper, mac wallpaper, windows wallpaper, uhd
-* **Разрешение:** 3840x2160
-* **Источник:** [https://pixabay.com/photos/colors-bokeh-lights-abstract-1772977/](https://pixabay.com/photos/colors-bokeh-lights-abstract-1772977/)
-* **Автор:** [tommyvideo](https://pixabay.com/photos/colors-bokeh-lights-abstract-1772977/)
+* **Заголовок:** Flamingo, free wallpaper, bird, nature wallpaper, feathers, 4k wallpaper, mac wallpaper, beautiful wallpaper, full hd wallpaper, reflection, free background, hd wallpaper, nature, wallpaper hd, laptop wallpaper, 4k wallpaper 1920x1080, animal, ave, nature background, windows wallpaper, desktop backgrounds, wallpaper, cool backgrounds, wallpaper 4k, background, beautiful nature, minimalism
+* **Разрешение:** 6005x3317
+* **Источник:** [https://pixabay.com/photos/flamingo-bird-feathers-reflection-5527232/](https://pixabay.com/photos/flamingo-bird-feathers-reflection-5527232/)
+* **Автор:** [Leolo212](https://pixabay.com/photos/flamingo-bird-feathers-reflection-5527232/)
 * **Дата:** 24 November 2026
 
 ## 6. K-on! (`k-on.jpg`)
 ![Local](images/k-on.jpg)
-* **Файл:** `068.jpg`
+* **Файл:** `388.jpg`
 * **Папка:** `kon-illustration-archives-jpg`
 * **Дата:** 24 November 2026
 
