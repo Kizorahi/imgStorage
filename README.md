@@ -10,9 +10,9 @@
 
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** A 3d render of a green and blue iris with intricate fibrous patterns
+* **Описание:** Two zebras interacting in tall golden grass during the golden hour
 * **Дата:** 24 November 2026
-* **Автор:** [Vaaris Chitkara](https://unsplash.com/@vaaris16)
+* **Автор:** [Bob Brewer](https://unsplash.com/@brewbottle)
 
 ---
 
@@ -27,22 +27,22 @@
 ## 4. Picsum (`picsum.jpg`)
 ![Picsum](images/picsum.jpg)
 * **Заголовок:** Picsum Random Photo
-* **Источник:** [https://fastly.picsum.photos/id/530/1920/1080.jpg?hmac=stzbWT9dFkjkk0BPEBI_KPXC5U9PgMhrNKrOS3Jm5NQ](https://fastly.picsum.photos/id/530/1920/1080.jpg?hmac=stzbWT9dFkjkk0BPEBI_KPXC5U9PgMhrNKrOS3Jm5NQ)
+* **Источник:** [https://fastly.picsum.photos/id/794/1920/1080.jpg?hmac=QZ-xMDLnD_L_iRUzS6oNLiYNtK_2yyrVC74Xp2u9cKo](https://fastly.picsum.photos/id/794/1920/1080.jpg?hmac=QZ-xMDLnD_L_iRUzS6oNLiYNtK_2yyrVC74Xp2u9cKo)
 * **Дата:** 24 November 2026
 
 ---
 
 ## 5. Pixabay (`pixabay.jpg`)
 ![Pixabay](images/pixabay.jpg)
-* **Заголовок:** Balls, sparkles, mac wallpaper, windows wallpaper, beautiful wallpaper, cool backgrounds, wallpaper 4k, full hd wallpaper, 4k wallpaper 1920x1080, abstract, bubbles, shiny, design, circles, hd wallpaper, free wallpaper, free background, laptop wallpaper, fantasy, desktop backgrounds, dark, wallpaper hd, wallpaper, 4k wallpaper, background
-* **Разрешение:** 3020x1699
-* **Источник:** [https://pixabay.com/photos/balls-sparkles-abstract-bubbles-5986986/](https://pixabay.com/photos/balls-sparkles-abstract-bubbles-5986986/)
-* **Автор:** [Larisa-K](https://pixabay.com/photos/balls-sparkles-abstract-bubbles-5986986/)
+* **Заголовок:** Colors, desktop backgrounds, wallpaper hd, laptop wallpaper, bokeh, wallpaper 4k, lights, full hd wallpaper, abstract, cool backgrounds, free background, hd wallpaper, background, beautiful wallpaper, 4k wallpaper 1920x1080, free wallpaper, 4k wallpaper, mac wallpaper, windows wallpaper, uhd
+* **Разрешение:** 3840x2160
+* **Источник:** [https://pixabay.com/photos/colors-bokeh-lights-abstract-1772977/](https://pixabay.com/photos/colors-bokeh-lights-abstract-1772977/)
+* **Автор:** [tommyvideo](https://pixabay.com/photos/colors-bokeh-lights-abstract-1772977/)
 * **Дата:** 24 November 2026
 
 ## 6. K-on! (`k-on.jpg`)
 ![Local](images/k-on.jpg)
-* **Файл:** `008.jpg`
+* **Файл:** `068.jpg`
 * **Папка:** `kon-illustration-archives-jpg`
 * **Дата:** 24 November 2026
 
