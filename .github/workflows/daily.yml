@@ -29,7 +29,9 @@ jobs:
         env:
           UNSPLASH_ACCESS_KEY: ${{ secrets.UNDAILY }}
           PIXABAY_API_KEY: ${{ secrets.PIXABAY }}
-        run: python imgStorageUpdate.py
+        run: |
+          python imgStorageUpdate.py
+          python imgStorageUpdateLocal.py
 
       - name: Commit and push changes
         run: |
