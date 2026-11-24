@@ -10,16 +10,16 @@
 
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** A person in a baseball cap standing on a subway platform at yankee stadium in new york
+* **Описание:** Tree leaf shadows cast on a smooth light grey stone wall
 * **Дата:** 24 November 2026
-* **Автор:** [Keithen Schwahn](https://unsplash.com/@keithen)
+* **Автор:** [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski)
 
 ---
 
 ## 3. Wallhaven (`wallhaven.jpg`)
 ![Wallhaven](images/wallhaven.jpg)
-* **Заголовок:** [Wallhaven Wallpaper #yqwwv7](https://wallhaven.cc/w/yqwwv7)
-* **Разрешение:** 6000x4000
+* **Заголовок:** [Wallhaven Wallpaper #qr55mq](https://wallhaven.cc/w/qr55mq)
+* **Разрешение:** 1920x1080
 * **Дата:** 24 November 2026
 
 ---
@@ -27,16 +27,24 @@
 ## 4. Picsum (`picsum.jpg`)
 ![Picsum](images/picsum.jpg)
 * **Заголовок:** Picsum Random Photo
-* **Источник:** [https://fastly.picsum.photos/id/813/1920/1080.jpg?hmac=lhzngtgAF_e-o2dfOSo_ZnleRWold_-kyeeelrI-wqg](https://fastly.picsum.photos/id/813/1920/1080.jpg?hmac=lhzngtgAF_e-o2dfOSo_ZnleRWold_-kyeeelrI-wqg)
+* **Источник:** [https://fastly.picsum.photos/id/821/1920/1080.jpg?hmac=k7CcyjvnVJYtGyvvHOZwo8mMJn4btCMhJiQQuu9QHfY](https://fastly.picsum.photos/id/821/1920/1080.jpg?hmac=k7CcyjvnVJYtGyvvHOZwo8mMJn4btCMhJiQQuu9QHfY)
 * **Дата:** 24 November 2026
 
 ---
 
 ## 5. Pixabay (`pixabay.jpg`)
 ![Pixabay](images/pixabay.jpg)
-* **Заголовок:** Sunset, ocean, beautiful nature, free wallpaper, hd wallpaper, twilight, windows wallpaper, 4k wallpaper 1920x1080, shore, landscape, trees, desktop backgrounds, wallpaper hd, mac wallpaper, 4k wallpaper, laptop wallpaper, wallpaper 4k, nature background, quiet, magical, nature wallpaper, dream, light rays, background, full hd wallpaper, cool backgrounds, beautiful wallpaper, wallpaper, free background, clouds, nature
-* **Разрешение:** 3200x1800
-* **Источник:** [https://pixabay.com/photos/sunset-ocean-twilight-shore-7449868/](https://pixabay.com/photos/sunset-ocean-twilight-shore-7449868/)
-* **Автор:** [jplenio](https://pixabay.com/photos/sunset-ocean-twilight-shore-7449868/)
+* **Заголовок:** Stars, mac wallpaper, galaxy, nebula, sky, wallpaper 4k, cosmos, hd wallpaper, cool backgrounds, night sky, wallpaper hd, desktop backgrounds, space, 4k wallpaper 1920x1080, free wallpaper, full hd wallpaper, sky background, beautiful nature, astronomy, nature, space wallpaper, universe, laptop wallpaper, endless, windows wallpaper, infinite, 4k wallpaper, nature wallpaper, planets, nature background, beautiful wallpaper, free background, wallpaper
+* **Разрешение:** 4001x2251
+* **Источник:** [https://pixabay.com/photos/stars-galaxy-nebula-sky-cosmos-7693324/](https://pixabay.com/photos/stars-galaxy-nebula-sky-cosmos-7693324/)
+* **Автор:** [flutie8211](https://pixabay.com/photos/stars-galaxy-nebula-sky-cosmos-7693324/)
 * **Дата:** 24 November 2026
+
+## 6. Local Wallpaper (`local.jpg`)
+![Local](images/local.jpg)
+* **Файл:** `52 - 7N8KPBw.png`
+* **Папка:** `test2`
+* **Дата:** 24 November 2026
+
+---
 
