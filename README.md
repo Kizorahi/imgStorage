@@ -10,9 +10,9 @@
 
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** Tree leaf shadows cast on a smooth light grey stone wall
+* **Описание:** A spiral staircase viewed from below with a circular light fixture above
 * **Дата:** 24 November 2026
-* **Автор:** [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski)
+* **Автор:** [Astrel Fisher](https://unsplash.com/@astrelfisher)
 
 ---
 
@@ -27,23 +27,23 @@
 ## 4. Picsum (`picsum.jpg`)
 ![Picsum](images/picsum.jpg)
 * **Заголовок:** Picsum Random Photo
-* **Источник:** [https://fastly.picsum.photos/id/821/1920/1080.jpg?hmac=k7CcyjvnVJYtGyvvHOZwo8mMJn4btCMhJiQQuu9QHfY](https://fastly.picsum.photos/id/821/1920/1080.jpg?hmac=k7CcyjvnVJYtGyvvHOZwo8mMJn4btCMhJiQQuu9QHfY)
+* **Источник:** [https://fastly.picsum.photos/id/371/1920/1080.jpg?hmac=QRB7vfwv9no2mGvVVs7KiB1TfcszJ7CVPRac2EWF-G8](https://fastly.picsum.photos/id/371/1920/1080.jpg?hmac=QRB7vfwv9no2mGvVVs7KiB1TfcszJ7CVPRac2EWF-G8)
 * **Дата:** 24 November 2026
 
 ---
 
 ## 5. Pixabay (`pixabay.jpg`)
 ![Pixabay](images/pixabay.jpg)
-* **Заголовок:** Stars, mac wallpaper, galaxy, nebula, sky, wallpaper 4k, cosmos, hd wallpaper, cool backgrounds, night sky, wallpaper hd, desktop backgrounds, space, 4k wallpaper 1920x1080, free wallpaper, full hd wallpaper, sky background, beautiful nature, astronomy, nature, space wallpaper, universe, laptop wallpaper, endless, windows wallpaper, infinite, 4k wallpaper, nature wallpaper, planets, nature background, beautiful wallpaper, free background, wallpaper
-* **Разрешение:** 4001x2251
-* **Источник:** [https://pixabay.com/photos/stars-galaxy-nebula-sky-cosmos-7693324/](https://pixabay.com/photos/stars-galaxy-nebula-sky-cosmos-7693324/)
-* **Автор:** [flutie8211](https://pixabay.com/photos/stars-galaxy-nebula-sky-cosmos-7693324/)
+* **Заголовок:** Thunderstorm, night sky, 4k wallpaper, wallpaper hd, windows wallpaper, nature background, mac wallpaper, beautiful nature, lightning, laptop wallpaper, wallpaper 4k, 4k wallpaper 1920x1080, desktop backgrounds, storm, beautiful wallpaper, sky background, free background, night, weather, hd wallpaper, free wallpaper, sky, nature wallpaper, clouds, cool backgrounds, storm clouds, full hd wallpaper, wallpaper, nature, background
+* **Разрешение:** 6000x3375
+* **Источник:** [https://pixabay.com/photos/thunderstorm-lightning-storm-night-3441687/](https://pixabay.com/photos/thunderstorm-lightning-storm-night-3441687/)
+* **Автор:** [Felix-Mittermeier](https://pixabay.com/photos/thunderstorm-lightning-storm-night-3441687/)
 * **Дата:** 24 November 2026
 
 ## 6. Local Wallpaper (`local.jpg`)
 ![Local](images/local.jpg)
-* **Файл:** `52 - 7N8KPBw.png`
-* **Папка:** `test2`
+* **Файл:** `50 - 9iHNkZR.png`
+* **Папка:** `test1`
 * **Дата:** 24 November 2026
 
 ---
