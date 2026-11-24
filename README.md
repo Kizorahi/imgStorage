@@ -10,9 +10,9 @@
 
 ## 2. Unsplash (`unsplash.jpg`)
 ![Unsplash](images/unsplash.jpg)
-* **Описание:** The space needle and seattle skyline with mount rainier in the distance under a warm sky
+* **Описание:** A 3d render of a green and blue iris with intricate fibrous patterns
 * **Дата:** 24 November 2026
-* **Автор:** [Dennis Zhang](https://unsplash.com/@windagh)
+* **Автор:** [Vaaris Chitkara](https://unsplash.com/@vaaris16)
 
 ---
 
@@ -27,30 +27,22 @@
 ## 4. Picsum (`picsum.jpg`)
 ![Picsum](images/picsum.jpg)
 * **Заголовок:** Picsum Random Photo
-* **Источник:** [https://fastly.picsum.photos/id/830/1920/1080.jpg?hmac=Li8K4Tftc7YfDuFIapXbthcCOllJ7AGBAFkHqFy8GRU](https://fastly.picsum.photos/id/830/1920/1080.jpg?hmac=Li8K4Tftc7YfDuFIapXbthcCOllJ7AGBAFkHqFy8GRU)
+* **Источник:** [https://fastly.picsum.photos/id/530/1920/1080.jpg?hmac=stzbWT9dFkjkk0BPEBI_KPXC5U9PgMhrNKrOS3Jm5NQ](https://fastly.picsum.photos/id/530/1920/1080.jpg?hmac=stzbWT9dFkjkk0BPEBI_KPXC5U9PgMhrNKrOS3Jm5NQ)
 * **Дата:** 24 November 2026
 
 ---
 
 ## 5. Pixabay (`pixabay.jpg`)
 ![Pixabay](images/pixabay.jpg)
-* **Заголовок:** Background, beautiful wallpaper, hd wallpaper, windows wallpaper, 4k wallpaper 1920x1080, cool backgrounds, wallpaper 4k, wallpaper, 4k wallpaper, gradient, gray pattern, gray metal, desktop, metal, laptop wallpaper, free background, free wallpaper, pattern, shade, shine, silver, mac wallpaper, full hd wallpaper, texture, desktop backgrounds, wallpaper hd, gray background, gray texture
-* **Разрешение:** 5312x2988
-* **Источник:** [https://pixabay.com/photos/background-wallpaper-gradient-1866485/](https://pixabay.com/photos/background-wallpaper-gradient-1866485/)
-* **Автор:** [Pexels](https://pixabay.com/photos/background-wallpaper-gradient-1866485/)
+* **Заголовок:** Balls, sparkles, mac wallpaper, windows wallpaper, beautiful wallpaper, cool backgrounds, wallpaper 4k, full hd wallpaper, 4k wallpaper 1920x1080, abstract, bubbles, shiny, design, circles, hd wallpaper, free wallpaper, free background, laptop wallpaper, fantasy, desktop backgrounds, dark, wallpaper hd, wallpaper, 4k wallpaper, background
+* **Разрешение:** 3020x1699
+* **Источник:** [https://pixabay.com/photos/balls-sparkles-abstract-bubbles-5986986/](https://pixabay.com/photos/balls-sparkles-abstract-bubbles-5986986/)
+* **Автор:** [Larisa-K](https://pixabay.com/photos/balls-sparkles-abstract-bubbles-5986986/)
 * **Дата:** 24 November 2026
-
-## 6. Local Wallpaper (`local.jpg`)
-![Local](images/local.jpg)
-* **Файл:** `82 - 0Dj3baL.png`
-* **Папка:** `test1`
-* **Дата:** 24 November 2026
-
----
 
 ## 6. K-on! (`k-on.jpg`)
 ![Local](images/k-on.jpg)
-* **Файл:** `240.jpg`
+* **Файл:** `008.jpg`
 * **Папка:** `kon-illustration-archives-jpg`
 * **Дата:** 24 November 2026
 
